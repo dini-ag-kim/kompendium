@@ -15,8 +15,9 @@ jobs:
 
     - name: Install Pandoc
       run: |
-        sudo apt-get update
-        sudo apt-get install -y pandoc pandoc-citeproc
+        wget https://github.com/jgm/pandoc/releases/download/3.1.13/pandoc-3.1.13-1-amd64.deb
+        sudo dpkg -i pandoc-3.1.13-1-amd64.deb
+        pandoc --version
 
     - name: Run script from the scripts folder
       run: |
