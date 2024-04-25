@@ -13,6 +13,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2 
 
+    - name: Install
+      uses: pandoc/actions/setup@{main}
+      with:
+        version: 3.1.8
+
     - name: Run script from the scripts folder
       run: |
         chmod +x ./scripts/transform_files.sh 
