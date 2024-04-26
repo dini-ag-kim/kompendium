@@ -283,25 +283,36 @@ Tabelle: *Beispiele für Zusammenhänge zwischen Objekten*
 <tr class="even">
 <td rowspan="2">Assoziativ</td>
 <td>Vor- / Nachgeordnet</td>
-<td>Chronologische Reihenfolge von Objekten (z. B. Lehr-/Lernpfade),
-Listenstrukturen (Vorgänger / Nachfolger).</td>
+<td>Chronologische Reihenfolge von Objekten (z. B. Lehr-/Lernpfade), Listenstrukturen (Vorgänger / Nachfolger).
+<img src="./images/2_assoziativ_vor_nach_geordnet.png" style="width: 60%; display: block;" />
+</td>
 </tr>
 <tr class="odd">
 <td>Inhaltlich geordnet</td>
 <td>Thematische Verwandtschaft von Objekten,<br />
-Sammlung von Objekten.</td>
+Sammlung von Objekten.
+<img src="./images/2_assoziativ_inhaltlich_geordnet.png" style="height: 60%; display: block;" />
+</td>
 </tr>
 <tr class="even">
 <td>Hierarchisch</td>
-<td>Über- / Untergeordnet</td>
+<td>Über- / Untergeordnet
+</td>
 <td>Eltern- / Kindobjekte (z. B. generische und spezifische Konzepte),
-Teilobjekte (“Teil von”-Beziehungen), Baumstrukturen.</td>
+Teilobjekte (“Teil von”-Beziehungen), Baumstrukturen.
+<img src="./images/2_hierarchisch_ueber_unter_geordnet.png" style="height: 60%; display: block;" />
+</td>
 </tr>
 <tr class="odd">
 <td>Heterarchisch</td>
 <td>Nebengeordnet</td>
 <td>Begleitende oder abhängige Objekte, gleichrangige Beziehungen
-zwischen Entitäten mit verschiedenen Rollen, Netzwerkstrukturen.</td>
+zwischen Entitäten mit verschiedenen Rollen, Netzwerkstrukturen.
+<div style="display: flex;">
+<img src="./images/2_heterarchisch_nebengeordnet_1.png" style="height: 60%;" />
+<img src="./images/2_heterarchisch_nebengeordnet_2.png" style="height: 60%;" />
+</div>
+</td>
 </tr>
 </tbody>
 </table>
@@ -413,7 +424,7 @@ Metadatenschema ist eine spezifische anwendungs- oder domänenspezifische
 Implementierung eines Metadatenstandards. Standards helfen,
 Anforderungen an Produkte und Prozesse sicherzustellen.
 
-<img src="media/image5.png" style="width:4.76932in;height:2.68931in"
+<img src="https://imgs.xkcd.com/comics/standards.png" style="width:4.76932in;height:2.68931in"
 alt="Comic: How standards proliferate. Grafik: &quot;Standards&quot; von Randall Munroe, lizenziert unter CC-BY 2.5" />
 
 Grafik: *"[Standards](https://xkcd.com/927/)" von Randall Munroe,
@@ -1152,5 +1163,5 @@ formalisierten, dokumentierten Prozessen folgen.</p></li>
 
 [^5]: Zum Teil wird der Prozess der Harmonisierung auch als Normalisierung bezeichnet.
 
-[^6]: Interoperabilität bezeichnet die Eigenschaft, Daten mit möglichst minimalem Verlust auszutauschen (Riley, 2017, S. 2) (vgl. [Kapitel zum Datenaustausch](#wie-gelingt-der-datenaustausch-in-einer-vernetzten-bildungslandschaft)).
+[^6]: Interoperabilität bezeichnet die Eigenschaft, Daten mit möglichst minimalem Verlust auszutauschen [@rileyumwmwi2017, S. 2] (vgl. <a href="/#/./3_technische_grundlagen?id=_35-wie-gelingt-der-datenaustausch-in-einer-vernetzten-bildungslandschaft">Kapitel zum Datenaustausch</a>).
 

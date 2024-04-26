@@ -548,18 +548,27 @@ auf einer größeren Strukturebene entwickelt und dann auf kleineren
 Ebenen adaptiert, beispielsweise von einzelnen Teilstaaten oder auf
 institutioneller Ebene.
 
-*Beispiele für Strukturebenen:*
 
-- Weltverbund
-- Staatenverbund (z. B. Europäische Union)
-- Bundesstaat  
-  (z. B. bundesweit gültige Rahmen)
-- Teilstaat, Bundesland  
-  (z. B. bundeslandspezifische Rahmen)
-- Institution (z. B. für schulinterne Rahmen)
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 70%;">
+<p><em>Beispiele für Strukturebenen:</em></p>
+<ul>
+<li>Weltverbund</li>
+<li>Staatenverbund (z. B. Europäische Union)</li>
+<li>Bundesstaat  </li>
+<li>(z. B. bundesweit gültige Rahmen)</li>
+<li>Teilstaat, Bundesland  </li>
+<li>(z. B. bundeslandspezifische Rahmen)</li>
+<li>Institution (z. B. für schulinterne Rahmen)</li>
+</ul>
+</div>
+<img src="./images/4_strukturebenen.png" alt="Beispiele für Strukturebenen" style="width: 30%;">
+</div>
 
-*EU-Standards  
-*Werden auf europäischer Ebene beispielsweise verschiedene
+
+*EU-Standards* 
+
+Werden auf europäischer Ebene beispielsweise verschiedene
 Referenzrahmen entwickelt, die dann auf nationaler Ebene oder in einem
 bildungsföderalistischen System auf Ebene der Bundesländer in eigenen
 Ausprägungen zu adaptieren sind, hat diese Fragmentierung Auswirkungen
@@ -2706,8 +2715,9 @@ Didaktische Hinweise werden dabei
 grundsätzlich als relevante Informationen für Lehrende, Lernende und
 Entwickelnde erachtet [@arnoldpmieapuefbvf2003, S. 381].
 
-<img src="media/image9.svg" style="width:1.925in;height:1.33056in" /><img src="media/image11.svg" style="width:1.925in;height:1.33056in" /><img src="media/image13.svg" style="width:1.925in;height:1.33056in" /><img src="media/image15.svg" style="width:1.925in;height:1.33056in" />*Praxisbeispiel:
-Nutzungskonzept und Paketisierungen (ComeIn) [@arndtdkpfpcql2023]*
+<img src="./images/4_comein_paket.svg"/>
+
+*Praxisbeispiel: Nutzungskonzept und Paketisierungen (ComeIn) [@arndtdkpfpcql2023]*
 
 Das Nutzungskonzept im Projekt ComeIn adressiert Multiplikator\*innen im
 Aus- und Fortbildungssystem. Verantwortliche sollen in die Lage versetzt
@@ -2735,9 +2745,8 @@ Voraussetzungen für den Einsatz, als eigenständige Ressource
 (“Didaktisches Konzept”, “Nutzungskonzept”) den Paketen beigefügt oder
 mit diesen über Relationen in Beziehung gesetzt werden.
 
-<img src="media/image11.svg" style="width:6.57361in;height:3.10278in" /><img src="media/image15.svg" style="width:6.57361in;height:3.10278in" /><img src="media/image15.svg" style="width:6.57361in;height:3.10278in" /><img src="media/image15.svg" style="width:6.57361in;height:3.10278in" /><img src="media/image15.svg" style="width:6.57361in;height:3.10278in" /><img src="media/image15.svg" style="width:6.57361in;height:3.10278in" /><img src="media/image15.svg" style="width:6.57361in;height:3.10278in" /><img src="media/image15.svg" style="width:6.57361in;height:3.10278in" /><img src="media/image13.svg" style="width:6.57361in;height:3.10278in" /><img src="media/image17.svg" style="width:6.57361in;height:3.10278in" /><img src="media/image15.svg" style="width:6.57361in;height:3.10278in" />
+![Grafik: *Exemplarische Paketisierungen von Ressourcen im ComeIn-Projekt*](./images/4_paketisierung.svg)
 
-Grafik: *Exemplarische Paketisierungen von Ressourcen im ComeIn-Projekt*
 
 Die Educational CAD Model Library nutzt einen vergleichbaren Ansatz,
 indem ein Lehrmittelpaket zu den Ressourcen hinzugefügt wird, welches
@@ -3905,8 +3914,8 @@ beschrieben, welches sich am [Statut der Informationsplattform
 iRights.info](https://web.archive.org/web/20231127094942/https://irights.info/was-ist-irights-info-redaktionsstatut)
 orientiert.
 
-<img src="media/image21.png" style="width:6.26772in;height:4.84722in"
-alt="Der redaktionelle Prüfprozess in dem Portal Wir Lernen Online." />
+
+<img src="./images/4_pruefprozess_wlo.svg" alt="Der redaktionelle Prüfprozess in dem Portal Wir Lernen Online." />
 
 Grafik: *Der redaktionelle Prüfprozess [@wloq2023].*
 
@@ -4048,14 +4057,9 @@ Dimension (Usability), fünf spezifischen Skalen (in der gelben
 Markierung enthaltene Subskalen, ohne Kernskalen) und vier eher
 technisch-orientierten Skalen (Zugänglichkeit).
 
-<img src="media/image22.png" style="width:6.26772in;height:4.76389in"
-alt="Darstellung der Skalen des Instruments zur Qualitätssicherung von OER (IQ OER)" />
+<img src="./images/4_instrumente_qualitaetssicherung.png" alt="Darstellung der Skalen des Instruments zur Qualitätssicherung von OER (IQ OER)" />
 
-Grafik: *[Instrument zur Qualitätssicherung von OER -
-IQOer](http://dx.doi.org/10.13140/RG.2.2.16987.03363/1) - V17 (Müskens
-et al., 2022);  
-rot: allgemein-anwendbare Kernskalen,  
-gelb: validierte Skalen (Kernskalen inkl. spezifische Skalen)*
+Grafik: *[Instrument zur Qualitätssicherung von OER - IQOer](http://dx.doi.org/10.13140/RG.2.2.16987.03363/1) - V17 [@mueskensizqoie12022]; rot: allgemein-anwendbare Kernskalen, gelb: validierte Skalen (Kernskalen inkl. spezifische Skalen)*
 
 **Lizenzen**
 
@@ -4440,8 +4444,7 @@ innerhalb und zwischen verschiedenen Bildungsressourcen entstehen.
 Didaktische Relationen werden für die Vernetzung verschiedener,
 modularisierter Bildungsressourcen verwendet.
 
-Grafik: *Exemplarische Organisationsstruktur von Lernprozessen
-(Lehr-/Lernpfade)*
+![Grafik: *Exemplarische Organisationsstruktur von Lernprozessen (Lehr-/Lernpfade)*](./images/4_didaktische_relationen.png)
 
 Metadaten können Relationen zwischen verschiedenen Objekten abbilden,
 beispielsweise kompetenzbezogene Bezüge wie [Voraussetzungen und
@@ -5541,7 +5544,7 @@ relevanten Attribute und Wertelisten zu identifizieren und mit den
 entsprechenden Objekten zu verknüpfen, die für die Nutzung ihres
 Dienstes entscheidend sind.
 
-[^15]: vgl. Kapitel “[Was sind Metadaten?”](#was-sind-metadaten) zum Begriff der Metadaten-Statements.
+[^15]: vgl. Kapitel “<a href="/#/./2_inhaltliche_grundlagen?id=_21-was-sind-metadaten">Was sind Metadaten?</a>” zum Begriff der Metadaten-Statements.
 
 [^16]: Das von LRMI eingeführte Attribut “educationalAlignment” hat sich in der Nutzung als zu kompliziert erwiesen und wurde durch die Attribute “teaches” und “assesses” ersetzt.
 
@@ -5549,7 +5552,7 @@ Dienstes entscheidend sind.
 
 [^18]: Der Zugriffsmodus (*accessMode*) beschreibt die Art und Weise, wie zum Erreichen der Lernziele notwendige Lerninhalte kodiert sind.
 
-[^19]: Muuß-Merholz weist [in seinem Meinungsbeitrag](https://web.archive.org/web/20231219091331/https://open-educational-resources.de/das-o-in-oer-steht-nicht-fuer-qualitaet-10-dinge-die-oer-untergeschoben-werden/) (Muuß-Meerholz, 2019) darauf hin, dass die gleichen Qualitätsprobleme bei nicht-offenen Materialien vorliegen, wie [Klaus und Alamo](https://www.biorxiv.org/content/10.1101/481655v2) zeigen (Klaus & Alamo, 2018).
+[^19]: Muuß-Merholz weist [in seinem Meinungsbeitrag](https://web.archive.org/web/20231219091331/https://open-educational-resources.de/das-o-in-oer-steht-nicht-fuer-qualitaet-10-dinge-die-oer-untergeschoben-werden/) (Muuß-Meerholz, 2019) darauf hin, dass die gleichen Qualitätsprobleme bei nicht-offenen Materialien vorliegen, wie [Klaus und Alamo](https://www.biorxiv.org/content/10.1101/481655v2) zeigen [@klaustilpraepfsp2018].
 
 [^20]: Im Befragungszeitraum waren die Qualitätsprozesse von ORCA.nrw noch nicht finalisiert.
 

@@ -28,7 +28,7 @@ do
         filename=$(basename "$file")
         
         # Use pandoc to convert the file and save it in the output directory
-        pandoc -f markdown -t commonmark+footnotes --citeproc --bibliography=metadaten.json "$file" -o "$output_dir/$filename"
+        pandoc -f markdown -t commonmark+footnotes --citeproc --wrap=none --bibliography=metadaten.json "$file" -o "$output_dir/$filename"
         
         echo "Converted $file and saved as $output_dir/$filename"
     done
@@ -36,6 +36,9 @@ done
 
 echo "Copy template files..."
 cp templates/* "$output_dir/"
+
+cp README.md "$output_dir/"
+cp images/* "$output_dir/images/"
 
 echo "Processing complete. Files are saved in $output_dir"
 

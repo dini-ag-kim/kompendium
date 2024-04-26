@@ -387,15 +387,10 @@ entwickeln:
   anzubieten, ist ein entsprechendes Mapping nötig.
 - Lernobjekte sind nicht mit Kompetenzmetadaten verknüpft.
 
-<img src="media/image24.png" style="width:6.26772in;height:3.63889in"
-alt="Zusammenhänge zwischen Kompetenzen mit Elementen aus dem Medienkompetenzramen NRW" />
+<img src="./images/5_medienkompetenzrahmen_nrw.png" alt="Zusammenhänge zwischen Kompetenzen mit Elementen aus dem Medienkompetenzramen NRW" />
 
-Grafik: *Zusammenhänge zwischen Kompetenzen  
-mit Elementen aus dem Medienkompetenzramen NRW (Blodau et al., 2019).  
-Fachlich sind Zusammenhänge zwischen Kompetenzen definierbar (hier:
-“setzt voraus”), jedoch  
-liegen diese Informationen meist nicht maschinenlesbar vor, sondern z.B.
-als Text/Grafik.*
+Grafik: *Zusammenhänge zwischen Kompetenzen mit Elementen aus dem Medienkompetenzramen NRW [@blodaumn2019].
+Fachlich sind Zusammenhänge zwischen Kompetenzen definierbar (hier: “setzt voraus”), jedoch liegen diese Informationen meist nicht maschinenlesbar vor, sondern z.B. als Text/Grafik.*
 
 Existierende Implementierungen, wie [Aleks](https://www.aleks.com) oder
 [Bettermarks](https://de.bettermarks.com/), stammen häufig aus dem
@@ -569,21 +564,16 @@ zieht keine automatische Generierung in Betracht. Zu Ende seines
 Abschnittes hält er ein Plädoyer dafür, dass Lehrkräfte ihre erstellten
 Lernpfade teilen sollen und entwirft einen
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><img src="media/image25.png"
-style="width:0.70833in;height:1.51042in"
-alt="Illustration eines OER-Lebenszyklus" /></td>
-</tr>
-<tr class="even">
-<td>Grafik: <em>Illustration eines OER-Lebenszyklus</em></td>
-</tr>
-</tbody>
-</table>
+<!-- ![Grafik: *Illustration eines OER-Lebenszyklus*](./images/5_lebenszyklus_oer.svg) -->
+
+<div class="clearfix" style="">
+<p>
+Hier beginnt Ihr Text, der um das Bild herum fließt. Sie können so viel Text hinzufügen, wie Sie benötigen,
+und er wird sich entsprechend um das Bild herum anordnen. Dies sorgt für ein ästhetisch ansprechendes Layout,
+das häufig in Nachrichtenartikeln, Blogs und anderen Medien verwendet wird.
+</p>
+<img src="./images/5_lebenszyklus_oer.png" alt="Beschreibung des Bildes" style="float: right; margin-left: 40px;" class="image-container">
+</div>
 
 “Lebenszyklus” [@rothldguu2014, S. 20], der stark an die 5V-Freiheiten von
 OER [@heckdoiecoer2020] [@muuss-meerholzzdooerrndwadav2015] erinnert.
@@ -603,17 +593,15 @@ Diese Freiheiten bringen die Herausforderung mit
 sich, Metadaten von Versionen und Varianten derselben Ressource
 miteinander in Verbindung zu bringen [@jointly.infokmbos2020].
 
-<img src="media/image26.png" style="width:3.83854in;height:2.60935in"
-alt="Die 5V-Freiheiten für Offenheit" />  
-  
-Linke Grafik: *“Die 5V-Freiheiten für Offenheit“ von Julia Eggestein,
-Jöran Muuß-Merholz u. Jörg Lohrer unter CC BY 4.0, basierend auf
-„Defining the ‘Open’ in Open Content and Open Educational Resources“ von
-David Wiley unter CC BY 4.0.  
-*  
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 50%;">
+<img src="./images/5_5_freiheiten.png" alt="Die 5V-Freiheiten für Offenheit" style="height: auto; margin: auto;" />
+</div>
+<img src="./images/5_lebenszyklus_lernpfade.png" alt="Lebenszyklus von Lernpfaden nach Roth (2014)" style="width: 50%;"/>
+</div>
+
+Linke Grafik: *“Die 5V-Freiheiten für Offenheit“ von Julia Eggestein, Jöran Muuß-Merholz u. Jörg Lohrer unter CC BY 4.0, basierend auf „Defining the ‘Open’ in Open Content and Open Educational Resources“ von David Wiley unter CC BY 4.0.*  
 Rechte Grafik: *Lebenszyklus von Lernpfaden [@rothldguu2014, S. 20].*
-<img src="media/image27.png" style="width:2.1603in;height:1.99261in"
-alt="Lebenszyklus von Lernpfaden nach Roth (2014)" />
 
 ### 5.2.8 Tools, Services und Projekte rund um Lernpfade
 
@@ -792,8 +780,7 @@ Trust”-Modelle eingeführt. Personen können andere Personen als
 transitiv übertragen, im Sinne von “Ich vertraue dir und wenn du Person
 B vertraust, vertraue ich auch Person B”.[^25]
 
-<img src="media/image28.png" style="width:4.3308in;height:2.89212in"
-alt="Circle of Trust (Abbildung von Frank Müller) " />
+<img src="./images/5_circle_of_trust.png" alt="Circle of Trust (Abbildung von Frank Müller) " />
 
 Grafik: *Circle of Trust (Abbildung von Frank Müller) [@muellercuhsffvboabpnnnwmi2019, S. 51])*
 
@@ -933,7 +920,7 @@ und Möglichkeiten adaptiver und individueller Förderung einlösen können.
 
 [^23]: Letzterem nimmt sich das [CoKoMo-Projekt](https://cokomo-it.de/) im Rahmen der Initiative “Mein Bildungsraum” an.
 
-[^24]: Für eine Erläuterung des Zusammenhangs zwischen Empfehlungssystemen und künstlicher Intelligenz, siehe Ausführungen von Reichow et al. (Reichow et al., 2022, S. 8–9).
+[^24]: Für eine Erläuterung des Zusammenhangs zwischen Empfehlungssystemen und künstlicher Intelligenz, siehe Ausführungen von Reichow et al. [@reichowrbwghuhdiri2022, S. 8-9].
 
 [^25]: Solche und ähnliche Modelle werden auch unter dem Begriff [“Web Of Trust”](https://en.wikipedia.org/wiki/Web_of_trust) diskutiert.
 

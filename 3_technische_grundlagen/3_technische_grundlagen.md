@@ -5,8 +5,7 @@ link-citations: true
 
 # 3 Technische Grundlagen: Wie gelingt ein vernetzter Bildungsraum?
 
-Wenn Daten in einem vernetzten Bildungsraum ausgetauscht werden sollen,
-müssen technisch zwei Grundbedingungen erfüllt werden:
+Wenn Daten in einem vernetzten Bildungsraum ausgetauscht werden sollen, müssen technisch zwei Grundbedingungen erfüllt werden:
 
 - **Verwendung von Standards**, um die Daten korrekt verarbeiten zu
   können
@@ -976,11 +975,9 @@ kann. Eine Besonderheit in der Versionierung des Standards besteht
 darin, dass v1.3. die aktuelle Version ist, obwohl es auch eine v2.0
 gab.
 
-<img src="media/image6.png" style="width:6.26772in;height:3.16667in"
-alt="Anwendungsfelder verschiedener Metadatenstandards" />
+<img src="./images/3_anwendungsfelder_metadatenstandards.png" alt="Anwendungsfelder verschiedener Metadatenstandards" />
 
-Grafik: *Anwendungsfelder verschiedener Metadatenstandards* (Rörtgen et
-al., 2023, S. 147)
+Grafik: *Anwendungsfelder verschiedener Metadatenstandards* [@rortgenmsneidectea2023, S. 147]
 
 ## 3.2 Was sind Linked Data und das Resource Description Framework?
 
@@ -1234,6 +1231,8 @@ Varianten zur Repräsentation von Konzepten in aufsteigender semantischer
 Reichhaltigkeit dar [@blumauerswustzbuu2006]. Je höher die Stufe,
 desto vielseitiger können die sodann komplexer werdenden semantischen
 Netze auch in automatisierten Auswertungen verwendet werden [@blumauerswustzbuu2006].
+
+![Erweiterte semantische Treppe (nach Blumauer & Pellegrini, 2006, S. 16)](./images/3_semantische_treppe.svg)
 
 Grafik: *Erweiterte semantische Treppe* (nach [@blumauerswustzbuu2006, S. 16])
 
@@ -1590,12 +1589,13 @@ bei einem Metadatenattribut eingetragen werden können.</p></li>
 
 **Logische Verknüpfungen innerhalb und zwischen Filtern**
 
+<div style="display: flex; justify-content: space-between;">
+<p style="width: 70%;">
 Eine gängige Funktionsweise von Filtern eines Portals verwendet zur
 Filterung der Suchergebnisse eine *Adjunktion* (‘ODER’-Verknüpfung)
-anhand der selektierten Werte *innerhalb derselben Filterkategorie* und
-eine *Konjunktion* (‘UND’-Verknüpfung) zur Kombination der verwendeten
-*Filterkategorien miteinander*.
-
+anhand der selektierten Werte <em>innerhalb derselben Filterkategorie</em> und
+eine <em>Konjunktion</em> (‘UND’-Verknüpfung) zur Kombination der verwendeten
+<em>Filterkategorien miteinander</em>.
 Dies bedeutet, dass aus allen ausgewählten Werten derselben
 Filterkategorie nur ein einzelnes Kriterium auf das Suchergebnis
 zutreffen muss (Beispiel: mindestens entweder A oder B oder C). Auch
@@ -1613,6 +1613,10 @@ Kriterium aus jeder Filterkategorie erfüllen. Damit werden zugleich die
 Nutzungsszenarien der Filter eingeschränkt. Dies geschieht in der Regel,
 um ein ausgewogenes UI-/UX-Design zu realisieren oder technische
 Implementationen zu vereinfachen.
+</p>
+<img src="./images/3_filter_vokabulare.png" alt="Second Image Description" style="height:50%; width: 30%;">
+</div>
+
 
 Beispiele:
 
@@ -1675,10 +1679,9 @@ Verknüpfung der ausgewählten Werte eigenständig zu wählen (vgl. Grafik
 eine solche Realisierung jedoch das UI überfrachten oder von Nutzenden
 als kompliziert empfunden werden.
 
-<img src="media/image7.tiff" style="width:4.52569in;height:3.15972in"
-alt="Filter-Konzept mit Auswahl der logischen Verknüpfung" />Grafik:  
-*Filter mit Auswahl der  
-logischen Verknüpfung*
+<img src="./images/3_filter_konzept.png" alt="Filter-Konzept mit Auswahl der logischen Verknüpfung" />
+
+Grafik: *Filter mit Auswahl der logischen Verknüpfung*
 
 *Quelle: Eigener Screenshot
 ([KatalogPlus](https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?vid=49HBZ_ULM:VU2)),
@@ -1688,7 +1691,7 @@ UI © 2024 ULB Münster, ExLibris Primo Discovery Service*
 
 Insbesondere kann somit zwischen Filterlösungen unterschieden werden,
 die Suchergebnisse durch Auswahl weiterer Werte innerhalb desselben
-Filters …
+Filters
 
 - … weiter eingrenzen, indem diese Kriterien jeweils zugleich erfüllt
   sein müssen (logische Operatoren: “UND”, “NICHT”)
@@ -2074,11 +2077,9 @@ Die Interoperabilität der Daten ist eine wichtige Voraussetzung, um
 übergreifende Services wie Referatorien bereitstellen zu können. Doch
 wie komme ich überhaupt an die Daten?
 
-Grafik: *Darstellung des Erschließungsprozesses. Die Metadaten
-verschiedener Repositorien werden während des ETL-Prozesses
-harmonisiert. Von dort werden sie dann in dem jeweiligen Service über
-einen Index mit Filtermöglichkeiten in einer quellübergreifenden Suche
-verfügbar gemacht.*
+<img src="./images/3_erschliessungsprozess.png" alt="Darstellung des Erschließungsprozesses. Die Metadaten verschiedener Repositorien werden während des ETL-Prozesses harmonisiert. Von dort werden sie dann in dem jeweiligen Service über einen Index mit Filtermöglichkeiten in einer quellübergreifenden Suche verfügbar gemacht." />
+
+Grafik: *Darstellung des Erschließungsprozesses. Die Metadaten verschiedener Repositorien werden während des ETL-Prozesses harmonisiert. Von dort werden sie dann in dem jeweiligen Service über einen Index mit Filtermöglichkeiten in einer quellübergreifenden Suche verfügbar gemacht.*
 
 **Verfahren zum Datenaustausch**
 
@@ -2183,9 +2184,9 @@ System geladen</p></li>
 
 [^8]: Teilweise sind die Informationen zu Standards bereits von Steffen Rörtgen in Wikis veröffentlicht worden ([OER Contentbuffet](https://wiki.oer-contentbuffet.info/), [OEde](https://kurzelinks.de/oede-wiki)). Für die Darstellung in diesem Kompendium wurden die Informationen durch die Autoren aktualisiert und an einigen Stellen erweitert.
 
-[^9]: wird vom IEEE mittlerweile als veraltet angesehen (IEEE, 2020b). Für eine ähnliche Einschätzung, siehe auch: INVITE-Projekt (Goertz et al., 2023, S. 7).
+[^9]: wird vom IEEE mittlerweile als veraltet angesehen (IEEE, 2020b). Für eine ähnliche Einschätzung, siehe auch: INVITE-Projekt [@goertzmiiiwswfwzebimudirii2023, S. 7].
 
-[^10]: siehe Abschnitt “[Technische Grundlagen](#technische-grundlagen-wie-gelingt-ein-vernetzter-bildungsraum)” für Details zu RDF und SKOS.
+[^10]: siehe Abschnitt “<a href="/#/./3_technische_grundlagen?id=_35-wie-gelingt-der-datenaustausch-in-einer-vernetzten-bildungslandschaft">Technische Grundlagen</a>
 
 [^11]: Die Web Hypertext Application Technology Working Group (WHATWG) ist eine Community zur Entwicklung webbasierter Standards.
 
@@ -2193,5 +2194,5 @@ System geladen</p></li>
 
 [^13]: Datensilos sind Datensammlungen, die nicht für einen Datenaustausch vorgesehen sind, sodass diese bspw. in proprietären Systemen unzugänglich eingeschlossen sind oder zusammenhängende Daten unverknüpft in verteilten Systemen verbleiben.
 
-[^14]: Teile des nachfolgenden Abschnitts sind von Steffen Rörtgen bereits in (Rörtgen, 2023) dargestellt worden.
+[^14]: Teile des nachfolgenden Abschnitts sind von Steffen Rörtgen bereits in [@rortgenhkpsmzhi2023] dargestellt worden.
 
