@@ -5,9 +5,7 @@ link-citations: true
 
 # 7 Über die Autoren
 
-<img src="media/image29.png" style="width:0.21333in;height:0.21333in"
-alt="Logo der Open Researcher and Contributor ID" />
-
+<img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" alt="Logo der Open Researcher and Contributor ID" />
 **Manuel Oellers**, M. Ed.
 [0000-0002-1580-8841](https://orcid.org/0000-0002-1580-8841)
 
@@ -27,9 +25,7 @@ nahtlosen Nutzungserlebnisses (föderiertes Single Sign-on sowie
 Authentifikations- und Autorisationsnetzwerke). Er wirkt in der
 OER-Metadatengruppe und Curricula-Gruppe der DINI-AG-KIM mit.
 
-<img src="media/image29.png" style="width:0.21333in;height:0.21333in"
-alt="Logo der Open Researcher and Contributor ID" />
-
+<img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" alt="Logo der Open Researcher and Contributor ID" />
 **Steffen Rörtgen**, M. Ed.
 [0000-0001-6378-2618](https://orcid.org/0000-0001-6378-2618)
 
