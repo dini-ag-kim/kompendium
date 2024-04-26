@@ -1944,7 +1944,7 @@ Zeng, Marcia Lei, and Lois Mai Chan. 2009. “Semantic Interoperability.” In *
 
 [^3]: wird vom IEEE mittlerweile als veraltet angesehen (IEEE, 2020b). Für eine ähnliche Einschätzung, siehe auch: INVITE-Projekt ([Goertz et al. 2023](#ref-goertzmiiiwswfwzebimudirii2023), S. 7).
 
-[^4]: siehe Abschnitt “<a href="/#/./3_technische_grundlagen?id=_35-wie-gelingt-der-datenaustausch-in-einer-vernetzten-bildungslandschaft">Technische Grundlagen</a>
+[^4]: siehe Abschnitt “[Technische Grundlagen](3_technische_grundlagen?id=_35-wie-gelingt-der-datenaustausch-in-einer-vernetzten-bildungslandschaft)”
 
 [^5]: Die Web Hypertext Application Technology Working Group (WHATWG) ist eine Community zur Entwicklung webbasierter Standards.
 

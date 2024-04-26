@@ -4500,7 +4500,7 @@ Zawacki-Richter, Olaf, and Kerstin Mayrberger. 2017. “Qualität von OER: Inter
 
 </div>
 
-[^1]: vgl. Kapitel “<a href="/#/./2_inhaltliche_grundlagen?id=_21-was-sind-metadaten">Was sind Metadaten?</a>” zum Begriff der Metadaten-Statements.
+[^1]: vgl. Kapitel “[Was sind Metadaten?](2_inhaltliche_grundlagen?id=_21-was-sind-metadaten)” zum Begriff der Metadaten-Statements.
 
 [^2]: Das von LRMI eingeführte Attribut “educationalAlignment” hat sich in der Nutzung als zu kompliziert erwiesen und wurde durch die Attribute “teaches” und “assesses” ersetzt.
 

@@ -48,6 +48,12 @@ Dieses Werk versteht sich als Ausgangspunkt für die Weiterarbeit und künftige 
 
 <div id="refs" class="references csl-bib-body hanging-indent" entry-spacing="0">
 
+<div id="ref-baumgartneresadp2002" class="csl-entry">
+
+Baumgartner, P., H. Häfele, and K. Maier-Häfele. 2002. “E-Learning Standards aus didaktischer Perspektive.” In *Campus 2002: die virtuelle Hochschule in der Konsolidierungsphase*. Medien in der Wissenschaft, Band 18. Münster New York München Berlin: Waxmann.
+
+</div>
+
 <div id="ref-koschorreckoepodfp2018" class="csl-entry">
 
 Koschorreck, Jan. 2018. “Open Educational Practices (OEP). Der DIE-Wissensbaustein Für Die Praxis.” <https://web.archive.org/web/20220619204804/https://www.die-bonn.de/wb/2018-oep-01.pdf>.
@@ -56,4 +62,4 @@ Koschorreck, Jan. 2018. “Open Educational Practices (OEP). Der DIE-Wissensbaus
 
 </div>
 
-[^1]: Kleinere Lerneinheiten werden auch als Learning Snacks, Learning Nuggets, Lernhäppchen oder als “Reusable Learning Objects” (RLO) (Baumgartner et al., 2002) bezeichnet.
+[^1]: Kleinere Lerneinheiten werden auch als Learning Snacks, Learning Nuggets, Lernhäppchen oder als “Reusable Learning Objects” (RLO) ([Baumgartner, Häfele, and Maier-Häfele 2002](#ref-baumgartneresadp2002)) bezeichnet.
