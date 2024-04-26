@@ -3,7 +3,7 @@ bibliography: "metadaten.json"
 link-citations: true
 ---
 
-## Präambel
+# Präambel
 
 Die Spur der Metadaten lässt sich bis in die Antike und die Bibliothek
 von Alexandria zurückverfolgen [@kennedymmawona2008]. Es ist daher nicht
