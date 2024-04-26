@@ -5544,7 +5544,7 @@ relevanten Attribute und Wertelisten zu identifizieren und mit den
 entsprechenden Objekten zu verknüpfen, die für die Nutzung ihres
 Dienstes entscheidend sind.
 
-[^15]: vgl. Kapitel “<a href="/#/./2_inhaltliche_grundlagen?id=_21-was-sind-metadaten">Was sind Metadaten?</a>” zum Begriff der Metadaten-Statements.
+[^15]: vgl. Kapitel "[Was sind Metadaten?](2_inhaltliche_grundlagen?id=_21-was-sind-metadaten)" zum Begriff der Metadaten-Statements.
 
 [^16]: Das von LRMI eingeführte Attribut “educationalAlignment” hat sich in der Nutzung als zu kompliziert erwiesen und wurde durch die Attribute “teaches” und “assesses” ersetzt.
 

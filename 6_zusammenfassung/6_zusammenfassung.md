@@ -156,4 +156,4 @@ Format (“Markdown”) in einem Repositorium zur Verfügung gestellt. Dort
 finden sich auch Hinweise zur Weiterarbeit:
 <https://w3id.org/kim/kompendium>
 
-[^26]: Kleinere Lerneinheiten werden auch als Learning Snacks, Learning Nuggets, Lernhäppchen oder als “Reusable Learning Objects” (RLO) (Baumgartner et al., 2002) bezeichnet.
+[^26]: Kleinere Lerneinheiten werden auch als Learning Snacks, Learning Nuggets, Lernhäppchen oder als “Reusable Learning Objects” (RLO) [@baumgartneresadp2002] bezeichnet.

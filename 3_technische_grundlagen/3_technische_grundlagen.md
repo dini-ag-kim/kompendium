@@ -2186,7 +2186,7 @@ System geladen</p></li>
 
 [^9]: wird vom IEEE mittlerweile als veraltet angesehen (IEEE, 2020b). Für eine ähnliche Einschätzung, siehe auch: INVITE-Projekt [@goertzmiiiwswfwzebimudirii2023, S. 7].
 
-[^10]: siehe Abschnitt “<a href="/#/./3_technische_grundlagen?id=_35-wie-gelingt-der-datenaustausch-in-einer-vernetzten-bildungslandschaft">Technische Grundlagen</a>
+[^10]: siehe Abschnitt "[Technische Grundlagen](3_technische_grundlagen?id=_35-wie-gelingt-der-datenaustausch-in-einer-vernetzten-bildungslandschaft)"
 
 [^11]: Die Web Hypertext Application Technology Working Group (WHATWG) ist eine Community zur Entwicklung webbasierter Standards.
 

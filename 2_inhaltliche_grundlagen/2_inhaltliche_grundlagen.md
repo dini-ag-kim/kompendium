@@ -1163,5 +1163,5 @@ formalisierten, dokumentierten Prozessen folgen.</p></li>
 
 [^5]: Zum Teil wird der Prozess der Harmonisierung auch als Normalisierung bezeichnet.
 
-[^6]: Interoperabilität bezeichnet die Eigenschaft, Daten mit möglichst minimalem Verlust auszutauschen [@rileyumwmwi2017, S. 2] (vgl. <a href="/#/./3_technische_grundlagen?id=_35-wie-gelingt-der-datenaustausch-in-einer-vernetzten-bildungslandschaft">Kapitel zum Datenaustausch</a>).
+[^6]: Interoperabilität bezeichnet die Eigenschaft, Daten mit möglichst minimalem Verlust auszutauschen [@rileyumwmwi2017, S. 2] (vgl. [Kapitel zum Datenaustausch](3_technische_grundlagen?id=_35-wie-gelingt-der-datenaustausch-in-einer-vernetzten-bildungslandschaft)).
 
