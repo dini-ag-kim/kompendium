@@ -4,7 +4,8 @@ Dieses Repo beinhaltet den Text zu dem "Kompendium - Didaktische Metadaten", wel
 Das Originaldokument ist unter der DOI [10.5281/zenodo.10828758](https://zenodo.org/doi/10.5281/zenodo.10828758) erschienen und dort abrufbar.
 Um die Nachnutzung zu vereinfachen, ist das Dokument in die Auszeichnungssprache "[Markdown](https://de.wikipedia.org/wiki/Markdown)" konvertiert worden.
 
-Du kannst es dir hier ansehen: <https://w3id.org/kim/kompendium/>
+Du kannst es dir hier ansehen (Webversion): <https://w3id.org/kim/kompendium/>
+Hier findest du das Git-Repo: <https://github.com/dini-ag-kim/kompendium/>
 
 ## Warum Markdown in git und nicht Google Docs o.ä.?
 
