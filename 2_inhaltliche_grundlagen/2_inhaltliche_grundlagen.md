@@ -436,9 +436,9 @@ lizenziert unter [CC-BY-NC
 Die Form von Standards entspricht in der Regel einem formalisierten
 Dokument, das die korrekte Implementierung des jeweiligen Standards
 beschreibt. Bisweilen werden auch Möglichkeiten zum Testen der korrekten
-Implementierung sowie Möglichkeiten zur Akkreditierung durch die
-veröffentlichende Institution gegeben.[^4] Pawlowski (2001) stellt
-folgende Anforderungen an Standards auf [@pawlowskieevzecl2001, S. 90f]:
+Implementierung durch die veröffentlichende Institution gegeben.[^4] 
+Pawlowski (2001) stellt folgende Anforderungen an Standards auf 
+[@pawlowskieevzecl2001, S. 90f]:
 
 - Rekombinierbarkeit
 - Rekontextualisierung
