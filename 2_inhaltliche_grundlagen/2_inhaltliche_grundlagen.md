@@ -983,7 +983,6 @@ Ontologien)</td>
 (<strong>R</strong>eusability)</td>
 <td>Möglichkeit der Weiter- / Wiederverwendung von Daten</td>
 <td>- Freie Lizenzierung<br />
-<br />
 - Dokumentation und Kontextualisierung der Daten (Provenienz)</td>
 </tr>
 </tbody>
