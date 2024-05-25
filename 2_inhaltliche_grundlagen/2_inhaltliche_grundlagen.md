@@ -105,8 +105,8 @@ und Datenveröffentlichung [@wuacrdsso2023]. Metadatenschemata sind
 häufig zunächst recht generisch gehalten, um eine breite Anwendbarkeit
 zu erzielen. Konkretisierungen und Erweiterungen erfolgen dann in
 Metadatenprofilen.
-
-Beispiele für Metadatenschemata:
+
+Beispiele für Metadatenschemata:
 
 - DublinCore Terms ([DCMI Metadata
   Terms](http://dublincore.org/specifications/dublin-core/dcmi-terms/2020-01-20/))
@@ -283,14 +283,13 @@ Tabelle: *Beispiele für Zusammenhänge zwischen Objekten*
 <tr class="even">
 <td rowspan="2">Assoziativ</td>
 <td>Vor- / Nachgeordnet</td>
-<td>Chronologische Reihenfolge von Objekten (z. B. Lehr-/Lernpfade), Listenstrukturen (Vorgänger / Nachfolger).
+<td>Chronologische Reihenfolge von Objekten (z. B. Lehr-/Lernpfade), Listenstrukturen (Vorgänger / Nachfolger).<br>
 <img src="./images/2_assoziativ_vor_nach_geordnet.png" style="width: 60%; display: block;" />
 </td>
 </tr>
 <tr class="odd">
 <td>Inhaltlich geordnet</td>
-<td>Thematische Verwandtschaft von Objekten,<br />
-Sammlung von Objekten.
+<td>Thematische Verwandtschaft von Objekten, Sammlung von Objekten.<br>
 <img src="./images/2_assoziativ_inhaltlich_geordnet.png" style="height: 60%; display: block;" />
 </td>
 </tr>
@@ -299,7 +298,7 @@ Sammlung von Objekten.
 <td>Über- / Untergeordnet
 </td>
 <td>Eltern- / Kindobjekte (z. B. generische und spezifische Konzepte),
-Teilobjekte (“Teil von”-Beziehungen), Baumstrukturen.
+Teilobjekte (“Teil von”-Beziehungen), Baumstrukturen.<br>
 <img src="./images/2_hierarchisch_ueber_unter_geordnet.png" style="height: 60%; display: block;" />
 </td>
 </tr>
@@ -490,7 +489,7 @@ Merkmale:
 
 Eine Norm ist ein öffentlich einsehbares Dokument, welches konsensuelle
 Anforderungen an Produkte, Dienstleistungen oder Verfahren festlegt (DIN
-EN 45020:2007-03; DIN 820). Normen dienen dabei als Referenz zur
+EN 45020:2007-03; DIN 820 Normenreihe). Normen dienen dabei als Referenz zur
 Etablierung eines transparenten und einheitlichen Verständnisses von
 Regeln, Leitlinien oder Merkmalen für die Anwendung von allen
 beteiligten Partien (CEN/SS F20 Qualitätssicherung, 2007). Normen und
@@ -984,7 +983,6 @@ Ontologien)</td>
 (<strong>R</strong>eusability)</td>
 <td>Möglichkeit der Weiter- / Wiederverwendung von Daten</td>
 <td>- Freie Lizenzierung<br />
-<br />
 - Dokumentation und Kontextualisierung der Daten (Provenienz)</td>
 </tr>
 </tbody>
