@@ -489,7 +489,7 @@ Merkmale:
 
 Eine Norm ist ein öffentlich einsehbares Dokument, welches konsensuelle
 Anforderungen an Produkte, Dienstleistungen oder Verfahren festlegt (DIN
-EN 45020:2007-03; DIN 820). Normen dienen dabei als Referenz zur
+EN 45020:2007-03; DIN 820 Normenreihe). Normen dienen dabei als Referenz zur
 Etablierung eines transparenten und einheitlichen Verständnisses von
 Regeln, Leitlinien oder Merkmalen für die Anwendung von allen
 beteiligten Partien (CEN/SS F20 Qualitätssicherung, 2007). Normen und
