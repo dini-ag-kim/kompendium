@@ -37,7 +37,13 @@ done
 echo "Copy template files..."
 cp templates/* "$output_dir/"
 
-cp README.md "$output_dir/"
+# Copy all readme
+for file in README*.md; do
+  if [ -f "$file" ]; then
+    cp "$file" "$output_dir/"
+  fi
+done
+
 cp images/* "$output_dir/images/"
 
 echo "Processing complete. Files are saved in $output_dir"

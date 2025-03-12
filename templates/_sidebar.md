@@ -1,6 +1,15 @@
 <!-- docs/_sidebar.md -->
-
-* [Home](/)
+* [Compendium - Educational Metadata (EN)](/)
+* [Preamble](0_preamble.md)
+* [1 Goals and structure of the compendium](1_goals_and_structure.md)
+* [2 Fundamentals: what is metadata and what are metadata standards?](2_content_fundamentals.md)
+* [3 Basic technical principles of a digital education hub](3_tech_fundamentals.md)
+* [4 Educational metadata](4_educational_metadata.md)
+* [5 Use cases](5_usecases.md)
+* [6 Summary](6_summary.md)
+* [7 Authors](7_authors.md)
+---
+* [Kompendium - Didaktische Metadaten (DE)](README_DE.md)
 * [Präambel](0_praeambel.md)
 * [1 Ziele und Struktur des Kompendiums](1_ziele_und_struktur.md)
 * [2 Inhaltliche Grundlagen: Was sind Metadaten und Standards?](2_inhaltliche_grundlagen.md)
