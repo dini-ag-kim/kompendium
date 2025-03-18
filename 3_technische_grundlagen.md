@@ -115,128 +115,212 @@ Beispiele für Metadatenprofile im Kontext von Repositorien zur Beschreibung und
 Tabelle: *LOM-basierte Profile*
 
 <table style="width:100%;">
+
 <colgroup>
+
 <col style="width: 52%" />
+
 <col style="width: 21%" />
+
 <col style="width: 26%" />
+
 </colgroup>
+
 <thead>
+
 <tr class="header">
+
 <th>
+
 Bezeichnung
 </th>
+
 <th>
+
 Kontext
 </th>
+
 <th>
+
 Referenzen
 </th>
+
 </tr>
+
 </thead>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <a
 href="https://www.educa.ch/de/taetigkeiten/online-dienste/lom-ch">LOM-CH</a> (<a
 href="https://web.archive.org/web/20240226225633/https://www.educa.ch/sites/default/files/2020-11/applikationsprofil-lom-ch-v2.1-de.pdf">Archiv</a>)
 </td>
+
 <td>
+
 Verschiedene Bildungsbereiche
 </td>
+
 <td>
+
 <a
 href="https://joinup.ec.europa.eu/collection/eu-semantic-interoperability-catalogue/solution/eun-learning-resource-exchange-metadata-application-profile">EUN</a>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 LOM for Higher Education (<a
 href="https://w3id.org/kim/hs-oer-lom-profil/latest/">HS-OER-LOM</a>) (<a
 href="https://github.com/dini-ag-kim/hs-oer-lom-profil/">Repo</a>)
 </td>
+
 <td>
+
 Hochschule
 </td>
+
 <td>
+
 XML, XSD
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 <a
 href="https://web.archive.org/web/20240227154209/http://agmud.de/eaf-erweitertes-austauschformat/">LOM-EAF</a> (<a
 href="https://web.archive.org/web/20220120184549/https://sodis.de/lom-eaf/LOM-EAF_v0.3.pdf">Archiv</a>)
 </td>
+
 <td>
+
 Medienzentren
 </td>
+
 <td>
+
 XML, XSD
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <a href="https://edoc.hu-berlin.de/handle/18452/2133">ELAN</a> (DINI & ELAN, 2005) (<a
 href="https://web.archive.org/web/20240227144518/https://edoc.hu-berlin.de/bitstream/handle/18452/2133/6-de.pdf">Archiv</a>)
 </td>
+
 <td>
+
 Hochschule
 </td>
+
 <td>
+
 Z39.50, OAI-PMH, XML
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 Tabelle: *LRMI-basierte Profile, kompatibel zu Linked (Open) Data*
 
 <table>
+
 <colgroup>
+
 <col style="width: 52%" />
+
 <col style="width: 20%" />
+
 <col style="width: 26%" />
+
 </colgroup>
+
 <thead>
+
 <tr class="header">
+
 <th>
+
 Bezeichnung
 </th>
+
 <th>
+
 Kontext
 </th>
+
 <th>
+
 Referenzen
 </th>
+
 </tr>
+
 </thead>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 Allgemeines Metadatenprofil für Bildungsressourcen (<a
 href="https://w3id.org/kim/amb/latest/">AMB</a>) (<a
 href="https://github.com/dini-ag-kim/amb">Repo</a>)
 </td>
+
 <td>
+
 Verschiedene Bildungsbereiche
 </td>
+
 <td>
+
 schema.org, SKOS, JSON-Schema, JSON-LD
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Learning Metadata (LMT) (<a
 href="https://opensource.ieee.org/lmt/lmt">Repo</a>)
 </td>
+
 <td>
+
 Verschiedene Bildungsbereiche
 </td>
+
 <td>
+
 LRMI, schema.org, SKOS
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ### 3.1.2 Standards für Kurse und Lernangebote
@@ -556,38 +640,67 @@ Grafik: *Anwendungsfelder verschiedener Metadatenstandards* ([Rörtgen et al. 20
 ## 3.2 Was sind Linked Data und das Resource Description Framework?
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 ❓
 </td>
+
 <td>
+
 <strong>Fragestellung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Was sind Linked Data und das Resource Description Framework?
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Was sind Vorteile dieser Technologien?
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 In den vorigen Abschnitten ist bereits öfter von “Linked Data” und dem “Resource Description Framework (RDF)” die Rede gewesen. Die Verwendung dieser Technologien und Standards fördert die Interoperabilität von Metadaten und damit deren Verbreitung sowie Akzeptanz ([Zeng and Chan 2009](#ref-zengsi2009)). Dies führt zu einer Harmonisierung und erwünschten Synergieeffekten innerhalb des Marktes ([Golub et al. 2014](#ref-golubtrkosfua2014)). Da sich zeigt, dass immer mehr Metadatenstandards auf diese Technologien setzen, sollen diese hier kurz erklärt werden.
@@ -627,59 +740,99 @@ Das Resource Description Framework (RDF) ist ein Datenmodell, das vom World Wide
 Tabelle: *Beispiel für eine Aussage im RDF-Modell*
 
 <table>
+
 <colgroup>
+
 <col style="width: 23%" />
+
 <col style="width: 76%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>Aussagen</strong>
 </td>
+
 <td>
+
 <strong>RDF-Tripel</strong> <a href="#fn1" class="footnote-ref"
 id="fnref1" role="doc-noteref"><sup>1</sup></a>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <strong>Mein Haustier<br /> ist<br /> ein Hund.</strong>
 </td>
+
 <td>
+
 <strong>http://example.org/my_dog<br /> <a
 href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">http://www.w3.org/1999/02/22-rdf-syntax-ns#type</a><br /> <a
 href="https://www.wikidata.org/entity/Q144">https://www.wikidata.org/entity/Q144</a>.</strong>
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 <strong>Mein Haustier<br /> hat den Namen<br /> Lica.</strong>
 </td>
+
 <td>
+
 <strong>http://example.org/my_dog<br /> <a href="http://schema.org/name">http://schema.org/name</a><br /> “Lica”.</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <strong>Mein Haustier<br /> ist befreundet mit<br /> Bella.</strong>
 </td>
+
 <td>
+
 <strong>http://example.org/my_dog<br /> <a
 href="http://xmlns.com/foaf/spec/#term_knows">http://xmlns.com/foaf/spec/#term_knows</a> http://example.org/neighboursDog.</strong>
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
+
 <aside id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+
 <hr />
+
 <ol>
+
 <li id="fn1">
+
 <p>
+
 Die verwendeten “example.org” URIs lösen nicht auf, da sie hier nur Beispiele sind. Die anderen URIs lösen hingegen auf und geben nützliche Informationen wie Definitionen, Beispiele und weitere Links.<a href="#fnref1" class="footnote-back"
 role="doc-backlink">↩︎</a>
 </p>
+
 </li>
+
 </ol>
+
 </aside>
 
 Das RDF ermöglicht es also flexibel, die Existenz und Bedeutung konkreter Zusammenhänge zwischen verschiedenen Ressourcen explizit zu modellieren ([Heath and Bizer 2011](#ref-heathldewgds2011)), sodass vernetztes Wissen entsteht und durch Inferenzmechanismen neue Erkenntnisse gewonnen werden können.
@@ -692,80 +845,142 @@ RDF-Star ist eine Erweiterung des RDF-Modells, mit welcher in vereinfachter Weis
 Aufgrund der Verwendung von HTTP-URIs, der Verlinkung und der strukturierten Darstellung der Daten können in RDF modellierte Daten leicht von Maschinen verarbeitet werden. Aktuelle Entwicklungen von Metadatenstandards auf internationaler, europäischer und nationaler Ebene (LMT, Europass, AMB) setzen auf RDF als Basistechnologie, da der Standard gut dokumentiert, leicht erweiterbar und hoch interoperabel ist.
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Linked Data bezeichnet das Prinzip, Daten, ähnlich den Hyperlinks im World Wide Web, miteinander zu verlinken.
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Resource Description Framework (RDF) ist ein graph-basiertes Datenmodell, das sich besonders zum Datenaustausch im Web eignet und den Linked Data Prinzipien folgt.
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Das Datenmodell ist hoch interoperabel, sodass es sich gut für die Zusammenführung heterogener Daten eignet.
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ## 3.3 Was sind Vokabulare?
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 ❓
 </td>
+
 <td>
+
 <strong>Fragestellung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Wofür benötige ich Vokabulare beim Datenaustausch?
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Welche Technologien kann ich für die Arbeit mit Vokabularen nutzen?
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 Wissensorganisationssysteme (Knowledge Organization Systems, KOS) existieren in verschiedener Komplexität. Die semantische Treppe stellt Varianten zur Repräsentation von Konzepten in aufsteigender semantischer Reichhaltigkeit dar ([Blumauer and Pellegrini 2006](#ref-blumauerswustzbuu2006)). Je höher die Stufe, desto vielseitiger können die sodann komplexer werdenden semantischen Netze auch in automatisierten Auswertungen verwendet werden ([Blumauer and Pellegrini 2006](#ref-blumauerswustzbuu2006)).
@@ -922,38 +1137,67 @@ Diese Tools können zur Veröffentlichung von (SKOS-)Vokabularen genutzt werden.
 Es gilt allgemein zu berücksichtigen, dass Metadatenfelder in der Praxis nicht nur strikt entsprechend der jeweiligen Felddefinition verwendet werden. Häufig gehen mit der Verwendung kontrollierter Vokabulare auch subjektive Erwartungen an bestimmte Werte einher, z. B. hinsichtlich der Interpretation oder Nutzung von Werten für zunächst nicht intendierte Zwecke (vgl. bspw. implizite [Niveaustufen](#niveaustufe)). Auch werden von Nutzenden womöglich implizite Zusammenhänge mit anderweitigen Kriterien angenommen, z. B. kontextabhängig (vgl. bspw. [didaktische Kontextualisierung](#didaktische-kontextualisierung-settings-und-szenarien)). Daher unterscheidet sich der Verwendungszweck somit teilweise von der intendierten Funktion und definierten, strikteren Semantik des zugehörigen Feldes. Auch andere Modelle zur Beschreibung der Verwendungszwecke von Metadaten berücksichtigen in vergleichbarer Weise die Unterscheidung zwischen der tatsächlichen Nutzung und den intrinsischen Eigenschaften der Metadaten ([Haynes 2018](#ref-haynesmimrumiu2018)).
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Vokabulare sind feste Wertelisten, die definieren, welche Werte bei einem Metadatenattribut eingetragen werden können.
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Als Standard für die Publikation von Vokabularen hat sich das “Simple Knowledge Organization System” (SKOS) etabliert.
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ### 3.3.3 Vokabulare zur Filterung von Suchergebnissen
@@ -963,6 +1207,7 @@ Als Standard für die Publikation von Vokabularen hat sich das “Simple Knowled
 <div style="display: flex; justify-content: space-between;">
 
 <p style="width: 70%;">
+
 Eine gängige Funktionsweise von Filtern eines Portals verwendet zur Filterung der Suchergebnisse eine *Adjunktion* (‘ODER’-Verknüpfung) anhand der selektierten Werte <em>innerhalb derselben Filterkategorie</em> und eine <em>Konjunktion</em> (‘UND’-Verknüpfung) zur Kombination der verwendeten <em>Filterkategorien miteinander</em>. Dies bedeutet, dass aus allen ausgewählten Werten derselben Filterkategorie nur ein einzelnes Kriterium auf das Suchergebnis zutreffen muss (Beispiel: mindestens entweder A oder B oder C). Auch Ressourcen, die Schnittmengen dieser Merkmale aufweisen, werden somit als Suchergebnis aufgeführt. Diese gängige Funktionsweise von Filtern bewirkt jedoch zugleich, dass Nutzende keine explizite Kombination von Merkmalen (Beispiel: A+B, A+C, B+C, A+B+C) zur strikteren Filterung auswählen können, die gemeinsam bei einem Suchergebnis auftreten müssten. Durch die Verwendung der ‘ODER’-Logik innerhalb einer Filterkategorie können Nutzende nach mehreren Kriterien suchen und Ergebnisse erhalten, die mindestens eines dieser Kriterien erfüllen. Die ‘UND’-Logik zwischen den Filterkategorien stellt sicher, dass die Suchergebnisse nur Einträge enthalten, die mindestens ein ausgewähltes Kriterium aus jeder Filterkategorie erfüllen. Damit werden zugleich die Nutzungsszenarien der Filter eingeschränkt. Dies geschieht in der Regel, um ein ausgewogenes UI-/UX-Design zu realisieren oder technische Implementationen zu vereinfachen.
 </p>
 
@@ -978,49 +1223,79 @@ Beispiele:
 Tabelle: *Exemplarische Verknüpfung innerhalb und zwischen Filterkategorien*
 
 <table>
+
 <colgroup>
+
 <col style="width: 17%" />
+
 <col style="width: 17%" />
+
 <col style="width: 64%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 Filterkategorie “Farbe”
 </td>
+
 <td>
+
 Filterkategorie “Größe”
 </td>
+
 <td>
+
 Erwartbare Eigenschaften der Suchergebnisse
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
 
 24) grün<br />
 25) blau<br /> ( ) gelb
     </td>
+
     <td>
 
     24) klein<br />
 26) mittel<br /> ( ) groß
     </td>
+
     <td>
+
     Die gefilterten Suchergebnisse besitzen für das Merkmal “Farbe” entweder den Wert “grün”, “blau” oder beide Werte. Zusätzlich weisen die Ergebnisse für Größe entweder den Wert “klein”, “mittel” oder beide Werte auf.
     </td>
+
     </tr>
+
     <tr class="odd">
+
     <td colspan="3">
+
     Finde Suchergebnisse, die folgende Kriterien erfüllen: (grün ODER blau) UND (klein ODER mittel)
     </td>
+
     </tr>
+
     <tr class="even">
+
     <td colspan="3">
+
     Es ist durch die logische Verknüpfung innerhalb und zwischen den Filtern nicht unmittelbar möglich, ausschließlich Suchergebnisse zu erhalten, denen sowohl “grün” als auch “blau” als Farben zugeordnet sind.
     </td>
+
     </tr>
+
     </tbody>
+
     </table>
 
 *Lösungsansätze zur Flexibilisierung der Filterung*
@@ -1068,33 +1343,58 @@ Da die Einarbeitung in Metadatenthemen aufwändig und nicht von allen Bildungs- 
 ## 3.5 Wie gelingt der Datenaustausch in einer vernetzten Bildungslandschaft?
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 ❓
 </td>
+
 <td>
+
 <strong>Fragestellung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Was ist Interoperabilität und welche Relevanz hat sie in einer vernetzten Bildungslandschaft?
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 Interoperabilität bezeichnet die Eigenschaft, Daten zwischen verteilten Systemen mit möglichst minimalem Verlust auszutauschen ([Riley 2017](#ref-rileyumwmwi2017), S. 2), sodass Objekte weitestgehend automatisiert auch in anderen Kontexten verwendet werden können ([Duval 2001a](#ref-duvalmswww2001), S. 592). Sie bezeichnet darüber hinaus die Vereinheitlichung von Prozessen und Architekturen ([Blumauer and Pellegrini 2006](#ref-blumauerswustzbuu2006), S. 18f.). Interoperabilität wird hergestellt, indem sich die Akteure, die Daten austauschen wollen, auf die Verwendung von Standards einigen und ihre Daten entsprechend bereitstellen. Dabei erlaubt ein Standard verschiedene Implementationen und fördert so den Wettbewerb und die Zusammenarbeit zwischen verschiedenen Gruppen. Interoperable Verfahren sind besonders zur Vermeidung von Datensilos[^7] sinnvoll, um einen Datenaustausch und Möglichkeiten zur Nachnutzung zu gewährleisten. Standardisierung ist somit eine Voraussetzung für die weiträumige Nutzung von Bildungsressourcen, da sie verhindert, dass Nutzende an proprietäre Systeme gebunden sind (Vendor Lock-in), um auf diese Weise eine offene Bildungsinfrastruktur zu schaffen ([Duval 2001b](#ref-duvalsmesr2001), S. 458).
@@ -1151,352 +1451,622 @@ Die Liste der Referatorien ist exemplarisch zu verstehen und bildet nur einen ge
 Tabelle: *Liste exemplarischer Referatorien*
 
 <table>
+
 <colgroup>
+
 <col style="width: 19%" />
+
 <col style="width: 5%" />
+
 <col style="width: 39%" />
+
 <col style="width: 17%" />
+
 <col style="width: 17%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td colspan="2">
+
 <strong>Fokus</strong>
 </td>
+
 <td>
+
 <strong>Anbieter</strong>
 </td>
+
 <td>
+
 <strong>Repositorium</strong>
 </td>
+
 <td>
+
 <strong>Referatorium</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 KITA / Kindergarten
 </td>
+
 <td>
+
 <em>BY</em>
 </td>
+
 <td>
+
 <a href="https://materialkiste.kita.bayern/">KITA Hub Materialkiste</a>
 </td>
+
 <td>
+
 x
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td rowspan="3">
+
 Schule
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 <a href="http://wirlernenonline.de">WirLernenOnline.de</a><a
 href="#fn1" class="footnote-ref" id="fnref1"
 role="doc-noteref"><sup>1</sup></a>
 </td>
+
 <td>
+
 x
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <a href="https://mundo.schule/">MUNDO</a>
 </td>
+
 <td>
+
 x
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 </td>
+
 <td>
+
 <a href="http://bildungsserver.de/elixier">Elixier</a>
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td rowspan="7">
+
 Hochschule
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 <a href="https://oersi.org">OERSI</a>
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 <em>NW</em>
 </td>
+
 <td>
+
 <a href="http://orca.nrw">ORCA.nrw</a>
 </td>
+
 <td>
+
 x
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <em>SH</em>
 </td>
+
 <td>
+
 <a href="https://futureskills-sh.de/">futureskills-sh.de</a>
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 <em>NI</em>
 </td>
+
 <td>
+
 <a href="http://twillo.de">Twillo</a>
 </td>
+
 <td>
+
 x
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <em>BW</em>
 </td>
+
 <td>
+
 <a href="https://www.zoerr.de/">Zentrales OER-Repositorium</a>
 </td>
+
 <td>
+
 x
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 <em>HE</em>
 </td>
+
 <td>
+
 <a href="https://oer.hessenhub.de/">HessenHub</a>
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <em>BY</em>
 </td>
+
 <td>
+
 <a href="http://oer.vhb.org">Virtuelle Hochschule Bayern</a>
 </td>
+
 <td>
+
 x
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Berufliche Bildung
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 <a href="https://hubbs.schule/search/mediathek">HubbS</a>
 </td>
+
 <td>
+
 x
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td rowspan="2">
+
 Lehrkräfteaus- / -fortbildung
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 <a href="https://unterrichtsvideos.net/metaportal/">Meta-Videoportal unterrichtsvideos.net</a>
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 <em>NW</em>
 </td>
+
 <td>
+
 <a href="https://comein.nrw/portal/ressourcen/">ComeIn.nrw</a>
 </td>
+
 <td>
+
 x
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td rowspan="2">
+
 Allgemein
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 <a href="https://openverse.org/de">OpenVerse</a>
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 </td>
+
 <td>
+
 <a href="https://moochub.org/">MOOChub</a>
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 x
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
+
 <aside id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+
 <hr />
+
 <ol>
+
 <li id="fn1">
+
 <p>
+
 Das Portal WirLernenOnline aggregiert zum Teil auch Bildungsmaterialien aus anderen Bildungsbereichen. Der primäre Fokus des Portals liegt derzeit auf dem Bildungsbereich Schule.<a href="#fnref1"
 class="footnote-back" role="doc-backlink">↩︎</a>
 </p>
+
 </li>
+
 </ol>
+
 </aside>
+
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Interoperable Systeme bemühen sich um einen möglichst verlustfreien Datenaustausch und beziehen sich auf eine Vielzahl von Aspekten, dazu gehören:
 </p>
+
 <ul>
+
 <li>
+
 <p>
+
 Metadatenprofile
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Vokabulare
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Schnittstellen
 </p>
+
 </li>
+
 </ul>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ## 3.6 Wie werden Metadaten ausgetauscht? - Der ETL-Prozess
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 🏅
 </td>
+
 <td>
+
 <strong>Lernziele des Kapitels</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Sie haben ein grundlegendes Verständnis zum Thema “Datenaustausch”.
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Sie kennen verschiedene Herausforderungen beim Datenaustausch.
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 Die Interoperabilität der Daten ist eine wichtige Voraussetzung, um übergreifende Services wie Referatorien bereitstellen zu können. Doch wie komme ich überhaupt an die Daten?
@@ -1530,48 +2100,85 @@ Beispiele von zur Bereitstellung und Aggregation von Metadaten:
 - Schnittstellen, z. B. XML via [OAI-PMH](https://openarchives.org/pmh/), JSON-API, Open API,, Simple Query Interface (SQI), RDF / SPARQL / GraphQL / RDQL, Apache Jena
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Daten werden über Schnittstellen im Rahmen eines ETL-Prozesses<br /> (Extract, Transform, Load) ausgetauscht
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 <strong>Extract:</strong> Daten werden von der Zielquelle abgefragt
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 <strong>Transform:</strong> Daten werden in ein Zielformat konvertiert
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 <strong>Load:</strong> Konvertierte Daten werden in das eigene System geladen
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 <div id="refs" class="references csl-bib-body hanging-indent" entry-spacing="0">

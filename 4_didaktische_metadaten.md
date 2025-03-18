@@ -3,38 +3,67 @@
 ## 4.1 Was sind didaktische Metadaten?
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 ❓
 </td>
+
 <td>
+
 <strong>Fragestellung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Was genau sind eigentlich didaktische Metadaten?
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Welche Potenziale und Herausforderungen bieten didaktische Metadaten?
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 Didaktische Metadaten dienen der Charakterisierung sowie Kontextualisierung, wie von Bildungsressourcen und deren intendierter Nachnutzung in Lernkontexten, Lernumgebungen und den damit verbundenen Lernprozessen. Sie umfassen vielseitige, relevante Aspekte für die Gestaltung der Lehre und des Lernens. So können Bildungsressourcen etwa durch Metadaten-Statements[^1] beschrieben werden, die Merkmale von Lernprozessen oder Lernumgebungen kennzeichnen und mit der intendierten Nutzung einhergehen ([Sutton 2004](#ref-suttonmes2004), S. 145).
@@ -68,75 +97,133 @@ Im Folgenden werden einige Attribute vorgestellt und beschrieben, die sich entwe
 Die zunächst naheliegende Forderung, dass jeder Dienst einfach die gleichen Attribute und Wertelisten verwendet, würde funktional einschränkend wirken und den Wettbewerb sowie Innovationen hemmen. Nur standardisierte Wertelisten in einem Service zu verwenden, führt kaum zur besten Usability und User Experience, da diese Wertelisten oft ein gewisses Abstraktionsniveau aufweisen. Das steht jedoch nicht der Möglichkeit im Wege, diese spezifischen Attribute und Werte auf standardkonforme Daten zu mappen und sie über offene Schnittstellen bereitzustellen. Um den Informationsverlust möglichst zu minimieren, sollten der Transfer und die Harmonisierung von Metadaten zwischen verschiedenen Systemen bereits frühzeitig mitgedacht werden.
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Didaktische Metadaten umfassen vielseitige Aspekte von Bildungsressourcen und Bildungskontexten (z. B. Lernumgebungen), die für Lehr-/Lernprozesse relevant sind.
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Es kann zwischen didaktischen Metadaten und Metadaten, die in bestimmten Nutzungsszenarien eine didaktische Funktion erfüllen, unterschieden werden.
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 (Elaborierte) Vokabulare und Harmonisierung für den interoperablen Datenaustausch sollten frühzeitig mitgedacht werden.
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ## 4.2 Didaktische Metadatenfelder - Welche gibt es schon?
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 ❓
 </td>
+
 <td>
+
 <strong>Fragestellung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Welche didaktischen Metadatenfelder existieren bereits in den vorhandenen Standards und wie werden sie eingesetzt?
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ### 4.2.1 Fach- und Themenzuordnung
@@ -296,30 +383,47 @@ Standardisierungen von Kompetenzen und Lehrplänen werden häufig zunächst auf 
 <div style="width: 70%;">
 
 <p>
+
 <em>Beispiele für Strukturebenen:</em>
 </p>
+
 <ul>
+
 <li>
+
 Weltverbund
 </li>
+
 <li>
+
 Staatenverbund (z. B. Europäische Union)
 </li>
+
 <li>
+
 Bundesstaat
 </li>
+
 <li>
+
 (z. B. bundesweit gültige Rahmen)
 </li>
+
 <li>
+
 Teilstaat, Bundesland
 </li>
+
 <li>
+
 (z. B. bundeslandspezifische Rahmen)
 </li>
+
 <li>
+
 Institution (z. B. für schulinterne Rahmen)
 </li>
+
 </ul>
 
 </div>
@@ -586,207 +690,357 @@ Den acht Niveaustufen des DQR/EQR werden jeweils Qualifikationstypen oder Qualif
 Tabelle: *Vergleich verschiedener Niveaustufenmodelle (3-stufig, 6-stufig)*
 
 <table style="width:100%;">
+
 <colgroup>
+
 <col style="width: 19%" />
+
 <col style="width: 9%" />
+
 <col style="width: 11%" />
+
 <col style="width: 11%" />
+
 <col style="width: 10%" />
+
 <col style="width: 10%" />
+
 <col style="width: 9%" />
+
 <col style="width: 7%" />
+
 <col style="width: 10%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>Quelle</strong>
 </td>
+
 <td colspan="2">
+
 <strong>Mindeststandards</strong>
 </td>
+
 <td colspan="2">
+
 <strong>Regelstandards</strong>
 </td>
+
 <td colspan="4">
+
 <strong>Expertenstandards</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Anforderungs-<br /> bereich / Bildungs-<br /> standards (KMK)
 </td>
+
 <td colspan="2">
+
 <p>
+
 A: Wiedergeben
 </p>
+
 <p>
+
 (Anforderungs-<br /> bereich I)
 </p>
+
 </td>
+
 <td colspan="2">
+
 B: Zusammenhänge herstellen (Anforderungs-<br /> bereich II)
 </td>
+
 <td colspan="2">
+
 C: Reflektieren und Beurteilen (Anforderungs-<br /> bereich III)
 </td>
+
 <td colspan="2" rowspan="3">
+
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Lernzieltaxonomie (kognitive Lernziele),<br /> Bloom (Bloom & Engelhart, 1976)
 </td>
+
 <td>
+
 1:<br /> Wissen
 </td>
+
 <td>
+
 2:<br /> Verstehen
 </td>
+
 <td>
+
 3: Anwenden
 </td>
+
 <td>
+
 4:<br /> Analyse
 </td>
+
 <td>
+
 5:<br /> Synthese
 </td>
+
 <td>
+
 6: Bewer-<br /> ten
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 “A Taxonomy for Teaching, Learning, and Assessment”,<br /> Anderson & Krathwohl (Anderson & Krathwohl, 2001)
 </td>
+
 <td>
+
 1: Erinnern
 </td>
+
 <td>
+
 2: Verstehen
 </td>
+
 <td>
+
 3: Anwenden
 </td>
+
 <td>
+
 4:<br /> Analy-<br /> sieren
 </td>
+
 <td>
+
 5:<br /> Bewer-<br /> ten
 </td>
+
 <td>
+
 6: Er-<br /> stellen
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 “Levels of processing”<br /> Marzano & Kendall (Marzano & Kendall, 2007)
 </td>
+
 <td>
+
 Level 1: Abrufen
 </td>
+
 <td>
+
 Level 2: Verstehen
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 Level 3: Analyse
 </td>
+
 <td>
+
 Level 4: Wissens-<br /> nutzung
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 Level 5: Meta-<br /> kogni-<br /> tion
 </td>
+
 <td>
+
 Level 6: Kritisches Selbst
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td rowspan="2">
+
 Referenzrahmen GERS (Europarat) (Trim et al., 2010)
 </td>
+
 <td colspan="2">
+
 Elementar
 </td>
+
 <td colspan="2">
+
 Selbstständig
 </td>
+
 <td colspan="2">
+
 Kompetent
 </td>
+
 <td colspan="2" rowspan="4">
+
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 A1
 </td>
+
 <td>
+
 A2
 </td>
+
 <td>
+
 B1
 </td>
+
 <td>
+
 B2
 </td>
+
 <td>
+
 C1
 </td>
+
 <td>
+
 C2
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Astleitner (Astleitner, 2009)
 </td>
+
 <td colspan="2">
+
 Leicht
 </td>
+
 <td colspan="2">
+
 Mittel
 </td>
+
 <td colspan="2">
+
 Schwer
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Ziener (Ziener, 2006)
 </td>
+
 <td colspan="2">
+
 Reproduktion
 </td>
+
 <td colspan="2">
+
 Rekonstruktion
 </td>
+
 <td colspan="2">
+
 Transfer
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Metzger (Metzger et al., 1993)
 </td>
+
 <td colspan="2">
+
 Erinnerung
 </td>
+
 <td colspan="2">
+
 Verarbeitung
 </td>
+
 <td colspan="2">
+
 Erzeugung
 </td>
+
 <td colspan="2">
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 **Weitere exemplarische Wertelisten**
@@ -808,447 +1062,793 @@ Durch solche typischen Zusammenhänge bietet es sich an, Metadaten automatisiert
 Tabelle: *Zusammenhänge zwischen Lehr-/Lernkontexten und anderen Metadaten*
 
 <table>
+
 <colgroup>
+
 <col style="width: 11%" />
+
 <col style="width: 7%" />
+
 <col style="width: 7%" />
+
 <col style="width: 23%" />
+
 <col style="width: 20%" />
+
 <col style="width: 11%" />
+
 <col style="width: 17%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>Klassen-<br /> stufe</strong>
 </td>
+
 <td colspan="2">
+
 <strong>Typisches<br /> Alter</strong>
 </td>
+
 <td>
+
 <strong>Bildungsstufe<br /> </strong>(WLO:<a
 href="http://w3id.org/openeduhub/vocabs/educationalContext/">ccm:educationalcontext</a>)
 </td>
+
 <td>
+
 <strong>Lehr-/Lernkontext<br /> </strong>(KIM:<a
 href="https://w3id.org/kim/educationalLevel/">educationalLevel</a>)
 </td>
+
 <td>
+
 <strong>ISCED-P/-A<br /> </strong>(Bildungs-bericht-erstattung, 2022)
 </td>
+
 <td>
+
 <strong>LOM-CH v2.1<br /> </strong><a
 href="https://web.archive.org/web/20240226225633/https://www.educa.ch/sites/default/files/2020-11/applikationsprofil-lom-ch-v2.1-de.pdf">educationalLevel</a> (educa.ch, 2020)
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td colspan="2">
+
 1–5
 </td>
+
 <td>
+
 Elementarbereich
 </td>
+
 <td>
+
 Elementarbereich
 </td>
+
 <td>
+
 <mark>0</mark>
 </td>
+
 <td>
+
 <mark>Frühbereich</mark>
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 1
 </td>
+
 <td>
+
 6–7
 </td>
+
 <td rowspan="4">
+
 6–10
 </td>
+
 <td rowspan="4">
+
 Primarstufe
 </td>
+
 <td rowspan="4">
+
 Primarbereich
 </td>
+
 <td rowspan="4">
+
 1
 </td>
+
 <td rowspan="4">
+
 Obligatorische Schule
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 2
 </td>
+
 <td>
+
 7–8
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 3
 </td>
+
 <td>
+
 8–9
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 4
 </td>
+
 <td>
+
 9–10
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 5
 </td>
+
 <td>
+
 10–11
 </td>
+
 <td rowspan="6">
+
 11–16
 </td>
+
 <td rowspan="6">
+
 Sekundarstufe I
 </td>
+
 <td rowspan="6">
+
 Sekundarbereich I
 </td>
+
 <td rowspan="6">
+
 2
 </td>
+
 <td rowspan="6">
+
 Obligatorische Schule
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 6
 </td>
+
 <td>
+
 11–12
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 7
 </td>
+
 <td>
+
 12–13
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 8
 </td>
+
 <td>
+
 13–14
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 9
 </td>
+
 <td>
+
 14–15
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 10
 </td>
+
 <td>
+
 15–16
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 11
 </td>
+
 <td>
+
 16–17
 </td>
+
 <td rowspan="3">
+
 16–19
 </td>
+
 <td rowspan="3">
+
 Sekundarstufe II
 </td>
+
 <td rowspan="3">
+
 Sekundarbereich II
 </td>
+
 <td rowspan="3">
+
 3
 </td>
+
 <td rowspan="3">
+
 Sekundarstufe II
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 12
 </td>
+
 <td>
+
 17–18
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 13
 </td>
+
 <td>
+
 18–19
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td colspan="2">
+
 16–20
 </td>
+
 <td>
+
 Berufliche Bildung
 </td>
+
 <td>
+
 Postsekundärer nicht-tertiärer Bereich
 </td>
+
 <td>
+
 4
 </td>
+
 <td>
+
 Tertiärstufe
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 </td>
+
 <td colspan="2">
+
 </td>
+
 <td>
+
 </td>
+
 <td>
+
 Kurzes tertiäres Bildungsprogramm
 </td>
+
 <td>
+
 5
 </td>
+
 <td>
+
 Tertiärstufe
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td colspan="2">
+
 </td>
+
 <td rowspan="4">
+
 Hochschule
 </td>
+
 <td>
+
 Hochschule
 </td>
+
 <td>
+
 </td>
+
 <td rowspan="4">
+
 Tertiärstufe
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 </td>
+
 <td colspan="2">
+
 18–24 \*
 </td>
+
 <td>
 
 - Bachelor oder äquivalent
   </td>
+
   <td>
+
   6
   </td>
+
   </tr>
+
   <tr class="even">
+
   <td>
+
   </td>
+
   <td colspan="2">
+
   22–28 \*
   </td>
+
   <td>
 
   - Master oder äquivalent
     </td>
+
     <td>
+
     7
     </td>
+
     </tr>
+
     <tr class="odd">
+
     <td>
+
     </td>
+
     <td colspan="2">
+
     24–34 \*
     </td>
+
     <td>
 
     - Promotion oder äquivalent
       </td>
+
       <td>
+
       8
       </td>
+
       </tr>
+
       <tr class="even">
+
       <td>
+
       </td>
+
       <td colspan="2">
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       Vorbereitungsdienst
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       </tr>
+
       <tr class="odd">
+
       <td>
+
       </td>
+
       <td colspan="2">
+
       </td>
+
       <td>
+
       Fortbildung
       </td>
+
       <td>
+
       Fortbildung
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       </tr>
+
       <tr class="even">
+
       <td>
+
       </td>
+
       <td colspan="2">
+
       </td>
+
       <td>
+
       Förderschule
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       </tr>
+
       <tr class="odd">
+
       <td>
+
       </td>
+
       <td colspan="2">
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       Sonderpädagogik
       </td>
+
       </tr>
+
       <tr class="even">
+
       <td>
+
       </td>
+
       <td colspan="2">
+
       </td>
+
       <td>
+
       Erwachsenenbildung
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       </tr>
+
       <tr class="odd">
+
       <td>
+
       </td>
+
       <td colspan="2">
+
       </td>
+
       <td>
+
       Fernunterricht
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       Fernunterricht
       </td>
+
       </tr>
+
       <tr class="even">
+
       <td>
+
       </td>
+
       <td colspan="2">
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       Weiterbildung
       </td>
+
       </tr>
+
       <tr class="odd">
+
       <td>
+
       </td>
+
       <td colspan="2">
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       <mark></mark>
       </td>
+
       <td>
+
       <mark>Stufenunabhängig</mark>
       </td>
+
       </tr>
+
       <tr class="even">
+
       <td>
+
       </td>
+
       <td colspan="2">
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       </td>
+
       <td>
+
       Nicht definiert
       </td>
+
       </tr>
+
       <tr class="odd">
+
       <td colspan="7">
 
       - angelehnt an Durchschnittsalter (Statistisches Bundesamt) (Statistisches Bundesamt (Destatis), 2021, S. 157f)
         </td>
+
         </tr>
+
         </tbody>
+
         </table>
 
 Die Angabe einer konkreten Bildungsstufe (z. B. Jahrgangs- bzw. Klassenstufe) wird von Lehrenden als äußerst hilfreich für die Suche nach Bildungsressourcen eingestuft ([Winter Group 2014](#ref-wintergrouplsrj2umoo2014)). Sie ermöglicht nicht nur die präzisere Eingrenzung von Ressourcen im Hinblick auf die aktuelle Progression Lernender im Bildungssystem, sondern enthält auch implizite Kriterien, wie beispielsweise das erwartete Niveau, auf welchem ein Lernziel oder Thema vermittelt wird. So wird in der Praxis angenommen, dass sich das Niveau der Vermittlung bei Ressourcen unterscheidet, wenn diese als Bildungsstufe beispielsweise die Eignung für die “Hochschule” oder eben den “Elementarbereich” ausweisen. Aufgrund dessen wird über die Angabe des jeweiligen Bildungskontexts in der Praxis zugleich implizit die Didaktisierung der Ressource für eine bestimmte Zielgruppe kommuniziert, die für diese Bildungsstufe typischerweise erwartbar ist. Damit verbunden sind Erwartungen an das typische Alter der Zielgruppe.
@@ -1296,60 +1896,103 @@ Grundsätzlich scheint jedoch, je nach Kontext, eine Systematisierung nach Absch
 Tabelle: *Zusammenhänge zwischen Bildungsstufen und Schularten*
 
 <table>
+
 <colgroup>
+
 <col style="width: 23%" />
+
 <col style="width: 76%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>Bildungsstufe</strong>
 </td>
+
 <td>
+
 <strong>Schularten</strong> (DINI-AG KIM, 2022d) <strong>-</strong> Zuordnung nach (Bildungsberichterstattung, 2022, S. XII), um atypische Mehrfachzuordnungen bereinigt
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Elementarbereich
 </td>
+
 <td>
+
 Vorschule
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Primarbereich
 </td>
+
 <td>
+
 Grundschule
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Sekundarbereich I
 </td>
+
 <td>
+
 Hauptschule, Realschule, Gesamtschule, Gymnasium, Sekundarschule
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Sekundarbereich II
 </td>
+
 <td>
+
 Gymnasium, Gemeinschaftsschule, Gesamtschule, Oberschule, Berufliches Gymnasium
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Postsekundärer nicht-tertiärer Bereich
 </td>
+
 <td>
+
 Berufsfachschule, Berufsschule, Fachoberschule
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 **Attribute in Metadatenstandards**
@@ -1377,368 +2020,637 @@ Berufsfachschule, Berufsschule, Fachoberschule
 - Educational Context (LOM-DE) ([Archiv](https://web.archive.org/web/20220120213540/https://sodis.de/lom-de/LOM-DE_v0.9_1.pdf)) (FWU, 2010):
 
 <table>
+
 <colgroup>
+
 <col style="width: 25%" />
+
 <col style="width: 15%" />
+
 <col style="width: 34%" />
+
 <col style="width: 25%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>LOM-DE value</strong>
 </td>
+
 <td>
+
 <strong>Binding</strong>
 </td>
+
 <td>
+
 <strong>LOM-DE expression (de)</strong>
 </td>
+
 <td>
+
 <strong>LRE-LOM value</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 pre-school
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Elementarbildung
 </td>
+
 <td>
+
 pre-school
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 compulsory education
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Allgemeinbildende Schule
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 special education
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Sonderpädagogische Förderung
 </td>
+
 <td>
+
 special education
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 vocational education
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Berufliche Bildung
 </td>
+
 <td>
+
 vocational education
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 higher education
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Hochschule
 </td>
+
 <td>
+
 higher education
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 distance education
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Fernunterricht
 </td>
+
 <td>
+
 distance education
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 continuing education
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Erwachsenenbildung
 </td>
+
 <td>
+
 continuing education
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 professional development
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Fortbildung
 </td>
+
 <td>
+
 professional development
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Library
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Bibliothek
 </td>
+
 <td>
+
 Library
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 educational administration
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Schulverwaltung
 </td>
+
 <td>
+
 educational administration
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 policy making
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 Schulpolitik
 </td>
+
 <td>
+
 policy making
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Other
 </td>
+
 <td>
+
 LREv3.0
 </td>
+
 <td>
+
 anderer Bereich
 </td>
+
 <td>
+
 Other
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Vorschule
 </td>
+
 <td>
+
 pre-school
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 primary school
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Grundschule
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 lower secondary school
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Sekundarstufe I
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 upper secondary school
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Sekundarstufe II
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Orientierungsstufe
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Hauptschule
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Realschule
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Mittelschule
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Sekundarschule
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Gesamtschule SEK I
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Gesamtschule SEK II
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Gymnasium SEK I
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 LOM-DE1.0
 </td>
+
 <td>
+
 Gymnasium SEK II
 </td>
+
 <td>
+
 compulsory education
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 **Klassenstufen, Jahrgangsstufen oder Fachsmester**
@@ -1809,47 +2721,81 @@ Die KMK-Lehramtstypen lösen die obig benannten Herausforderungen auf, da es sic
 Tabelle: *KMK-Lehramtstypen*
 
 <table>
+
 <colgroup>
+
 <col style="width: 100%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 DINI-AG-KIM: <a
 href="http://w3id.org/kim/kmk-vocabs/lehramtstypen/"><strong>KMK-Lehramtstypen</strong></a> (KMK, 2023)
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Lehramtstyp 1: Lehrämter der Grundschule bzw. Primarstufe
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Lehramtstyp 2: Übergreifende Lehrämter der Primarstufe und aller oder einzelner Schularten der Sekundarstufe I
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Lehramtstyp 3: Lehrämter für alle oder einzelne Schularten der Sekundarstufe I
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Lehramtstyp 4: Lehrämter der Sekundarstufe II \[allgemeinbildende Fächer\] oder für das Gymnasium
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Lehramtstyp 5: Lehrämter der Sekundarstufe II \[berufliche Fächer\] oder für die beruflichen Schulen
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Lehramtstyp 6: Sonderpädagogische Lehrämter
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 \*\*  
@@ -1979,46 +2925,78 @@ Auch die CanCore-Empfehlungen stellten bereits verschiedene Nutzungsszenarien he
 Tabelle: *Alternierende Rollen in Lehr-/Lernkontexten*
 
 <table>
+
 <colgroup>
+
 <col style="width: 28%" />
+
 <col style="width: 11%" />
+
 <col style="width: 59%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>Zielgruppe</strong>
 </td>
+
 <td>
+
 <strong>Rolle</strong>
 </td>
+
 <td>
+
 <strong>Kontexte (Beispiele)</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Lehrer*in, Dozent*in, Fortbildner\*in, Eltern, o.ä.
 </td>
+
 <td>
+
 Lernende
 </td>
+
 <td>
+
 Fort- und Weiterbildung
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Schüler*in, Student*in, o.ä.
 </td>
+
 <td>
+
 Lehrende
 </td>
+
 <td>
+
 Peer-Tutoring, Unterrichtsmethode „Lernen durch Lehren“
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 **Ressourcentypen mit dualer Perspektive zur Beschreibung von Metadaten**
@@ -2307,84 +3285,145 @@ Im [Portal PhET](https://phet.colorado.edu/en/simulations/filter?type=html) werd
 Tabelle: *Assistive Funktionen im Portal PhET* ([PhET 2024](#ref-phetidf2024))
 
 <table>
+
 <colgroup>
+
 <col style="width: 23%" />
+
 <col style="width: 76%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>Feld</strong>
 </td>
+
 <td>
+
 <strong>Beschreibung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Alternative Input
 </td>
+
 <td>
+
 Alternative Input enables learners to use many different input methods like keyboards, switches, and joysticks.
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Camera Input
 </td>
+
 <td>
+
 Use your camera to recognize hand movements or colored objects placed within camera view to interact with the simulation objects and make changes.
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Interactive Description
 </td>
+
 <td>
+
 Accessed using screen reader software, Interactive Description provides an interactive described experience that dynamically updates and responds to learners actions.
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Interactive Description on Mobile Devices
 </td>
+
 <td>
+
 Accessed using mobile VoiceOver on iPhones and iPads, this feature provides an interactive described experience that dynamically updates and responds to a learner’s swipes and taps.
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Sound and Sonification
 </td>
+
 <td>
+
 Sound and Sonifications are non-speech sounds that create an immersive and meaningful soundscape for learners. All sounds are optional.
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Voicing
 </td>
+
 <td>
+
 Enable Voicing in the Audio tab of the Preferences menu and choose the information you want to hear spoken aloud as you navigate and interact.
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Pan and Zoom
 </td>
+
 <td>
+
 Pan and Zoom allows anyone to zoom in for a closer look. On touch devices, pinch-to-zoom or drag to pan. Using a keyboard, zoom in and out with standard keyboard shortcuts and use arrow keys to pan. The sim auto pans to the focused object.
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Interactive Highlights
 </td>
+
 <td>
+
 Bright pink Interactive Highlights, like the ones for Alternative Input, can be enabled for mouse and touch in the Visual tab of Preferences menu.
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 *WirLernenOnline*
@@ -2521,123 +3560,212 @@ Diese Einschätzung deckt sich mit Beobachtungen aus der Praxis, bei denen sich 
 Tabelle: *Vergleich der Felddefinitionen für die Lehr-/Lernform*
 
 <table>
+
 <colgroup>
+
 <col style="width: 20%" />
+
 <col style="width: 32%" />
+
 <col style="width: 27%" />
+
 <col style="width: 19%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>Wert / Standard</strong>
 </td>
+
 <td>
+
 <strong>active</strong>
 </td>
+
 <td>
+
 <strong>expositive</strong>
 </td>
+
 <td>
+
 <strong>mixed</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <strong>LOM:interactivityType<br /> </strong>(IEEE, 2020a, S. 31)
 </td>
+
 <td>
+
 <p>
+
 <strong>Lernen durch Handeln</strong>
 </p>
+
 <p>
+
 im weiteren Sinn auch
 </p>
+
 <p>
+
 <strong>eher aktiv produzierende /</strong>
 </p>
+
 <p>
+
 <strong>entscheidende Tätigkeiten</strong>
 </p>
+
 <p>
+
 (z. B. etwas Verfassen in einer Übung/Aufgabe, Simulation, Fragebogen, …)
 </p>
+
 </td>
+
 <td>
+
 <p>
+
 <strong>eher rezeptive Tätigkeiten</strong>
 </p>
+
 <p>
+
 (bspw. das Lesen, Hören oder Anschauen von Text/Audio/Video)
 </p>
+
 </td>
+
 <td>
+
 Kombination der aktiven und expositiven Interaktionstypen
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 <p>
+
 <strong>DCMI/LRMI:<br /> interactivityType</strong>
 </p>
+
 <p>
+
 (LRMI Task Group (DCMI), 2017)
 </p>
+
 </td>
+
 <td>
+
 Learning that engages and challenges the learner’s thinking using real-life and/or imaginary situations taking advantage of the opportunities for learning presented by investigating, exploring, events, and life experiences.
 </td>
+
 <td>
+
 <strong>Use of a subject-matter expert</strong> to explain a concept or give clear and concise information in a purposeful way to the passive learner.
 </td>
+
 <td>
+
 Instructional interactions comprised of a mix of active learning and expositive approaches.
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <strong>ComeIn:<br /> interactivityType</strong> „Lehr-/Lernform“ (AG Imedibi, 2023a, 2023b)
 </td>
+
 <td>
+
 <p>
+
 <strong>aktiv (eher selbstgesteuert)</strong>
 </p>
+
 <p>
+
 Im weiteren Sinne entspricht dies der LRMI-Spezifikation, im näheren Sinne wird hiermit <strong>eher selbstgesteuertes Lernen</strong> ausgewiesen.
 </p>
+
 </td>
+
 <td>
+
 <p>
+
 <strong>erklärend (eher fremdgesteuert)</strong>
 </p>
+
 <p>
+
 Notwendigkeit eines Lehrenden zur Erklärung eines Konzepts oder zur zielgerichteten Vermitt-lung von Informationen an den Lernenden.
 </p>
+
 </td>
+
 <td>
+
 <p>
+
 <strong>gemischt</strong>
 </p>
+
 <p>
+
 Interaktionen, die aus einer Mischung aus aktiven und erklärenden Ansätzen bestehen
 </p>
+
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 <strong>ZOERR BW</strong> (Universität Tübingen, 2024)
 </td>
+
 <td>
+
 <strong>Aktiv (eher selbstgesteuert)</strong>, wenn die Inhalte die Lernenden direkt unterstützen, produktive Handlungen zu ergreifen. Ein aktives Lernobjekt fordert den Lernenden zu einer semantisch sinnvollen Eingabe oder zu einer anderen Art von produktiver Handlung oder Entscheidung auf \[…\]
 </td>
+
 <td>
+
 <strong>Erklärend (eher fremdgesteuert)</strong>,<br /> wenn die Aufgabe des Lernenden hauptsächlich darin besteht, die vorliegenden Materialien oder Inhalte aufzunehmen. \[…\]
 </td>
+
 <td>
+
 <strong>Gemischt</strong>,<br /> wenn beide Interaktivitäts-<br /> typen sich in einem Objekt vereinen.
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 **Vergleich und Implikationen der verschiedenen Feldkonzepte**
@@ -2667,76 +3795,129 @@ Für das verwandte Attribut “Interaktivitätsgrad” verwendet LOM eine fünfs
 Tabelle: *CanCore: Zusammenhang zwischen exemplarischer Ressourcentypen, Interaktivitätstyp gemäß LOM und Interaktivitätsniveau* ([Fisher et al. 2003](#ref-fishercgvec2003), S. 10)
 
 <table>
+
 <colgroup>
+
 <col style="width: 15%" />
+
 <col style="width: 13%" />
+
 <col style="width: 15%" />
+
 <col style="width: 17%" />
+
 <col style="width: 17%" />
+
 <col style="width: 19%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 Interaktivitäts-niveau / -typ
 </td>
+
 <td>
+
 Sehr niedrig
 </td>
+
 <td>
+
 Niedrig
 </td>
+
 <td>
+
 Mittel
 </td>
+
 <td>
+
 Hoch
 </td>
+
 <td>
+
 Sehr hoch
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Active
 </td>
+
 <td>
+
 Testfragen zum Ausdrucken formatiert
 </td>
+
 <td>
+
 Links mit Anweisungen für ihre Nutzung
 </td>
+
 <td>
+
 Online-Multiple-Choice-Übung mit Feedback
 </td>
+
 <td>
+
 Simulation mit Vor- und Nach-<br /> bereitungs-<br /> tests
 </td>
+
 <td>
+
 Immersive 3-D-Simulation mit vorgegebener Schritten
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Expositive
 </td>
+
 <td>
+
 Aufsatz für den Druck formatiert
 </td>
+
 <td>
+
 Videoclip mit Steuerelementen zum Abspielen, Anhalten und Wiedergeben
 </td>
+
 <td>
+
 Hypertext,<br /> bei dem die Nutzenden<br /> die Aktivität eigens beenden
 </td>
+
 <td>
+
 Simulation ohne Bewertungs-<br /> komponenten
 </td>
+
 <td>
+
 Immersive 3-D-Umgebung zur Erkundung entlegener Orte
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 **Attribute in Metadatenstandards**
@@ -2975,44 +4156,75 @@ Lizenzübersichten und -assistenten:
 Tabelle: *Empfehlungen für Lizenzen nach Ressourcentyp*
 
 <table>
+
 <colgroup>
+
 <col style="width: 43%" />
+
 <col style="width: 56%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>Ressourcentyp</strong>
 </td>
+
 <td>
+
 <strong>Lizenzempfehlung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Allgemeine Ressourcen (freie Inhalte)
 </td>
+
 <td>
+
 <a href="https://de.creativecommons.net/">Creative Commons</a>-Lizenzen
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Schriftarten
 </td>
+
 <td>
+
 Vom <a href="https://openfontlicense.org/">Summer Institute of Linguistics</a> empfohlene Lizenz (SIL Open Font)
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Softwareprodukte (freie Software)
 </td>
+
 <td>
+
 Von der <a href="https://opensource.org/licenses/">Open Source Initiative</a> empfohlene Lizenzen
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 **Weitere Bestrebungen zur Erfassung und Evaluation der Qualität**
@@ -3108,97 +4320,164 @@ Insbesondere Werteliste für Softwaretypen sind vergleichbar mit Ansätzen zur E
 Tabelle: *Hard- und Softwarevoraussetzungen*
 
 <table>
+
 <colgroup>
+
 <col style="width: 21%" />
+
 <col style="width: 79%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>Werteliste</strong>
 </td>
+
 <td>
+
 <strong>Werte</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <a
 href="https://digitallearninglab.de/api/operatingSystems?q=">DigitalLearningLab:OS</a>
 </td>
+
 <td>
+
 Android, BlackBerry OS, iOS, Linux, macOS, Windows, Windows Phone
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 ComeIn:Software
 </td>
+
 <td>
+
 Moodle, ILIAS, Bildbearbeitung (z. B. GIMP), Textverarbeitung (z. B. LibreOffice), Videobearbeitung (z. B. Shotcut), Audiobearbeitung (z. B. Audacity)
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 ComeIn:Hardware
 </td>
+
 <td>
+
 Webcam, Mikrofon, Beamer/Projektor, Internetzugang, Kamera, WLAN, Drucker, Scanner, Maus, Tastatur, (Multi-)Touchscreen, USB-Stick, Speicherkarte, Monitor, Whiteboard, Notebook, Tablet, Desktop-PC, Smartphone
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 ComeIn:Sensoren
 </td>
+
 <td>
+
 Umgebungslichtsensor, Beschleunigungssensor, Pulsmesser, Näherungssensor, Rotationssensor, Satellitennavigation (z. B. GPS, Galileo, Beidou, …), Fingerabdrucksensor, Barometer, Magnetometer, Thermometer, Pulsmesser
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 European Schoolnet <a
 href="http://europeanschoolnet-vbe.lexaurus.net/vbe/browse">“Software Type”</a>
 </td>
+
 <td>
+
 blog hosting service, blog software, bulletin board system, classroom management software, concept-mapping software, content management system, courseware, e-mail program, FTP client, hypermedia, image editor software, instant messaging service, interactive whiteboard software, learner response software, learning content management system, management information system, other, PDF software, photo sharing site, podcast software, presentation graphics software, search engine, simulation software, social bookmarking site, social networking site, social networking software, spreadsheet software, syndication feed, video editor software, virtual reality, VLE, VoIP, Web authoring software, Web browser, Wiki, Wiki tool, word processing software
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 European Schoolnet <a
 href="http://europeanschoolnet-vbe.lexaurus.net/vbe/browse">“Hardware Type”</a>
 </td>
+
 <td>
+
 amplification system, audio capture tool, audio conference tool, desktop computer, document reader, games console, interactive multi-touch table, interactive overlay, interactive whiteboard, laptop computer, learner response tool, mobile device, netbook computer, other, photo camera, projector, scanner, server, smartphone, tablet, video capture tool, video conference tool, wireless slate
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <a href="https://edulabs.de/oer/">EduLabs</a>
 </td>
+
 <td>
+
 ohne Internetzugang, PC / Laptop, Tablet / Smartphone, Hardware / Basteln
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 <a
 href="https://www.merlot.org/merlot/materials.htm">MERLOT</a>
 </td>
+
 <td>
+
 Android, Blackberry, iOS (Apple), Windows Mobile
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <a
 href="https://hack-the-summer.de/material-finder">Material-Finder</a> (Hack the Summer)
 </td>
+
 <td>
+
 Bastelmaterialien, Beamer, Calliope mini, Internetzugang, Kamera, Laptop/PC, Mit technischen Zubehör, Ohne technisches Zubehör, Scratch, senseBox, Smartphone, Stift und Papier, Tablet, VR-Brille
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 Veraltete Wertelisten
@@ -3427,57 +4706,97 @@ Auch Kriterien für einen Zugang oder die Nutzung einer Ressource spielen eine R
 Tabelle: *Vergleich verschiedener Wertelisten für Zugangsvoraussetzungen*
 
 <table>
+
 <colgroup>
+
 <col style="width: 27%" />
+
 <col style="width: 41%" />
+
 <col style="width: 31%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 WLO:oeh_quality_login
 </td>
+
 <td>
+
 <a
 href="http://w3id.org/openeduhub/vocabs/conditionsOfAccess/">WLO:conditionsOfAccess</a>
 </td>
+
 <td>
+
 <a
 href="https://w3id.org/kim/conditionsOfAccess/">AMB:conditionsOfAccess</a>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Ohne Login zugänglich
 </td>
+
 <td>
+
 ohne Anmeldung
 </td>
+
 <td>
+
 Keine Anmeldung erforderlich
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 </td>
+
 <td>
+
 Anmeldung erforderlich für erweiterte Funktionen
 </td>
+
 <td>
+
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Zugang nur mit Login
 </td>
+
 <td>
+
 Anmeldung notwendig
 </td>
+
 <td>
+
 Anmeldung erforderlich
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 **Attribute in Metadatenstandards**
@@ -3552,42 +4871,71 @@ Der (vorläufige) Ansatz von WirLernenOnline / Open Edu Hub zur Bewertung des Da
 Tabelle: *Skalen zum Datenschutz*
 
 <table>
+
 <colgroup>
+
 <col style="width: 45%" />
+
 <col style="width: 54%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 WirLernenOnline / Open Edu Hub Skala
 </td>
+
 <td>
+
 Digital.Learning.Lab-Skala
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 0D: „heimlich unangemessen datensaugend“,<br /> 1D: „intransparent unangemessen viel datensaugend“,<br /> 2D: „intransparent Daten saugend“,<br /> 3D: „transparent unangemessen viel datensaugend“,<br /> 4D: „angemessen viele Daten mit Einverständnis“,’<br /> 5D: „keinerlei Datenweitergabe“
 </td>
+
 <td>
+
 <p>
+
 0: „Unbekannt“
 </p>
+
 <p>
+
 1: „Es werden keinerlei Daten erhoben“
 </p>
+
 <p>
+
 2: „Personenbezogene Daten wie z. B. Logins werden geschützt auf dem Server abgelegt. Es greift die EU-Datenschutz-Grundverordnung.“
 </p>
+
 <p>
+
 3: „Personenbezogene Daten werden erhoben. Dritte haben Zugriff auf diese Daten. Es greift die EU-Datenschutz-Grundverordnung.“
 </p>
+
 <p>
+
 4: „Personenbezogene Daten werden erhoben. Es greift NICHT die EU-Datenschutz-Grundverordnung.“
 </p>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 Die (vorläufige) Skala von WirLernenOnline / Open Edu Hub scheint ohne nähere Operationalisierung möglicherweise zunächst zu subjektiv. Die Schwierigkeit besteht bei dieser Skala in der Erhebung bzw. Einschätzung der „Angemessenheit“, „Transparenz“, „Datenweitergabe“, der Definition von „datensaugend“ sowie der Erhebungsgrundlage „Einwilligung (Einverständnis)“. Letzteres stellt nur eine einzelne Erhebungsgrundlage der DSGVO dar, wenngleich es anderweitige Grundlagen abseits des Einverständnisses geben kann (vgl. Art. 6 DSGVO).

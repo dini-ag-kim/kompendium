@@ -230,6 +230,7 @@ Roth geht davon aus, dass Lernpfade von Lehrkräften erstellt werden und zieht k
 <div class="clearfix" style="">
 
 <p>
+
 Hier beginnt Ihr Text, der um das Bild herum fließt. Sie können so viel Text hinzufügen, wie Sie benötigen, und er wird sich entsprechend um das Bild herum anordnen. Dies sorgt für ein ästhetisch ansprechendes Layout, das häufig in Nachrichtenartikeln, Blogs und anderen Medien verwendet wird.
 </p>
 
@@ -271,61 +272,108 @@ Mit Künstlicher Intelligenz Lernpfade automatisch generieren
 - [ITS – Intelligente Tutorielle Systeme](https://www.kmk.org/de/themen/bildung-in-der-digitalen-welt/laenderuebergreifende-projekte.html)
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <p>
+
 Lernpfade ermöglichen …
 </p>
+
 <ul>
+
 <li>
+
 <p>
+
 … selbstgesteuertes, eigenverantwortliches Lernen
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 … eine Binnendifferenzierung und individuelle Förderung
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 … die Anpassung von Aktivitäten und Inhalten an die Bedürfnisse Lernender
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 … die didaktisch vorstrukturierte Sequenzierung eines Lerngegenstands, bspw. zur systematischen Erschließung eines Themen- / Wissensgebietes
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 … das Monitoring des eigenen und fremden Lernfortschrittes
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 … die lernziel-orientierte Empfehlung von Ressourcen basierend auf dem aktuellen Stand eines Lernenden
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ## 5.3 Suchen und Finden: Wie kann ich das finden, was ich suche?

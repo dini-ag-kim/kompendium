@@ -1,46 +1,81 @@
 # 2 Inhaltliche Grundlagen: Was sind Metadaten und Standards?
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 🏅
 </td>
+
 <td>
+
 <strong>Lernziele des Kapitels</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <p>
+
 Sie kennen …
 </p>
+
 <ul>
+
 <li>
+
 <p>
+
 … Grundlagen und Funktionen von Metadaten
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 … Charakteristiken von Metadatenstandards
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 … Vorteile von offenen Standards im öffentlichen Raum
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ## 2.1 Was sind Metadaten?
@@ -137,61 +172,104 @@ Objekte wie Bildungsressourcen, die durch Metadaten beschrieben werden, können 
 Tabelle: *Beispiele für Zusammenhänge zwischen Objekten*
 
 <table>
+
 <colgroup>
+
 <col style="width: 18%" />
+
 <col style="width: 20%" />
+
 <col style="width: 61%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>Typ</strong>
 </td>
+
 <td>
+
 <strong>Ordnung</strong>
 </td>
+
 <td>
+
 <strong>Exemplarische Verwendungszwecke</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td rowspan="2">
+
 Assoziativ
 </td>
+
 <td>
+
 Vor- / Nachgeordnet
 </td>
+
 <td>
+
 Chronologische Reihenfolge von Objekten (z. B. Lehr-/Lernpfade), Listenstrukturen (Vorgänger / Nachfolger). <img src="./images/2_assoziativ_vor_nach_geordnet.png" style="width: 60%; display: block;" />
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Inhaltlich geordnet
 </td>
+
 <td>
+
 Thematische Verwandtschaft von Objekten,<br /> Sammlung von Objekten. <img src="./images/2_assoziativ_inhaltlich_geordnet.png" style="height: 60%; display: block;" />
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 Hierarchisch
 </td>
+
 <td>
+
 Über- / Untergeordnet
 </td>
+
 <td>
+
 Eltern- / Kindobjekte (z. B. generische und spezifische Konzepte), Teilobjekte (“Teil von”-Beziehungen), Baumstrukturen. <img src="./images/2_hierarchisch_ueber_unter_geordnet.png" style="height: 60%; display: block;" />
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 Heterarchisch
 </td>
+
 <td>
+
 Nebengeordnet
 </td>
+
 <td>
+
 Begleitende oder abhängige Objekte, gleichrangige Beziehungen zwischen Entitäten mit verschiedenen Rollen, Netzwerkstrukturen.
 
 <div style="display: flex;">
@@ -201,8 +279,11 @@ Begleitende oder abhängige Objekte, gleichrangige Beziehungen zwischen Entität
 </div>
 
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ## 2.4 Welche Funktionen und Vorteile haben Metadaten?
@@ -233,78 +314,138 @@ Metadaten ermöglichen nützliche Dienste, wie:
 - Lernportfolios und Lerndiagnostik, welche didaktische Metadaten aus Lernumgebungen verwendet (Learning Analytics)
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Verschiedene Abstraktionsebenen von Metadaten sind erforderlich, um Mehrwerte von Metadaten für verschiedene Akteure zu schaffen.
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Es gibt unterschiedliche Kategorien von Metadaten, die jeweils vielfältige Perspektiven in der Nachnutzung besitzen.
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ## 2.5 Was sind Metadatenstandards?
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 🏅
 </td>
+
 <td>
+
 <strong>Lernziele des Kapitels</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <p>
+
 Sie kennen …
 </p>
+
 <ul>
+
 <li>
+
 <p>
+
 … unterschiedliche Standards und deren Unterscheidungsmerkmale
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 … verschiedene Arten der Erarbeitung von Standards
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 Ein Metadatenstandard stellt ein Regelwerk dar, aufgrund dessen ein gemeinsames Verständnis vom Umgang mit Metadaten gewährleistet werden kann, beispielsweise für bestimmte Anwendungen oder in bestimmten Kontexten. Diese Vereinbarungen umfassen einheitliche Regeln zur syntaktischen und semantischen Interpretation von Daten. Die Entwicklung eines Standards kann dabei sowohl *top down* als auch *bottom up* erfolgen und involviert meist die Expertise von Fachkreisen. Ein Metadatenschema ist eine spezifische anwendungs- oder domänenspezifische Implementierung eines Metadatenstandards. Standards helfen, Anforderungen an Produkte und Prozesse sicherzustellen.
@@ -409,75 +550,134 @@ Merkmale:
 Wenn keine Standards vorliegen, werden bisweilen Leitlinien, Checklisten oder Empfehlungen verwendet. Diese können als Grundlage für eine spätere Standardisierung dienen und bieten eine erste Orientierungsgrundlage.
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Es lassen sich sieben verschiedene Arten von Standards unterscheiden:
 </p>
+
 <ul>
+
 <li>
+
 <p>
+
 Gesetze und Verordnungen
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Normen
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Spezifikationen
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Gremienstandards
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Industriestandards
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Herstellerstandards
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Leitlinien, Checklisten und Empfehlungen
 </p>
+
 </li>
+
 </ul>
+
 </li>
+
 <li>
+
 <p>
+
 Die Unterscheidung liegt hauptsächlich in der Art der Erarbeitung sowie der Autorität, die sie durch die erarbeitenden Gremien und Institute gewinnen.
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ## 2.6 Wozu werden Metadatenstandards benötigt?
@@ -513,75 +713,133 @@ Verbindlichkeiten, die durch Standards resultieren, schaffen verlässliche Erwar
 Bei Institutionen und Projekten, die öffentlich finanziert sind, kann noch ein weiterer Aspekt hinzutreten: Um der Forderung “[Public Money, Public Code](https://publiccode.eu/de/)” der gleichnamigen Kampagne gerecht zu werden, empfiehlt es sich, dass in öffentlich finanzierten Projekten, soweit möglich, etablierte und offene Standards verwendet werden. Dies ermöglicht eine Nachnutzung der verwendeten Infrastruktur(-komponenten), Daten und Schnittstellen sowie eine nachhaltige Anschlussfähigkeit über die finanzierte Projektlaufzeit hinaus ([FSFE 2024](#ref-fsfepmpc2024)), wie Prototypen in der Vergangenheit bereits zeigen konnten ([Arndt et al. 2023](#ref-arndtdkpfpcql2023)) ([Oellers 2023](#ref-oellersavb2023)).
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Metadatenstandards fördern die Qualität, Konsistenz und Interoperabilität von Daten und verbessern somit deren Nachnutzbarkeit
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Bei öffentlich-finanzierten Projekten sollte der Fokus auf Nachnutzbarkeit besonders hoch sein, damit die Daten nach Projektende weiter genutzt werden können
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ## 2.7 Welche Qualitätskriterien sind für Metadaten relevant?
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 ❓
 </td>
+
 <td>
+
 <strong>Fragestellung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Was wird unter Datenqualität verstanden?
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Wie kann eine Wiederverwendbarkeit von Daten gewährleistet werden?
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 **Limitierte Verfügbarkeit von Daten über Inhalte**
@@ -641,50 +899,84 @@ Im [Linked Data](#_3.2_Was_sind)-Bereich gilt das Fünf-Sterne-Modell von Tim Be
 Tabelle: *Qualitätsstufen und Eigenschaften von Linked Data*
 
 <table>
+
 <colgroup>
+
 <col style="width: 19%" />
+
 <col style="width: 80%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 Qualitätsindex
 </td>
+
 <td>
+
 Linked (Open) Data-Eigenschaften ([W3C 2013](#ref-w3cldg2013))
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 ★ (1)
 </td>
+
 <td>
+
 Die Daten werden in einem beliebigen Format (bspw. PDF, JPEG) bereitgestellt. Bei Open Data zusätzlich mit einer freien Lizenz (Rechteeinräumung)
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 ★★ (2)
 </td>
+
 <td>
+
 Die Daten werden in einem strukturierten, maschinenlesbaren Format bereitgestellt (bspw. <a href="http://www.w3.org/TR/xml/">XML</a>, <a
 href="https://datatracker.ietf.org/doc/html/rfc8259">JSON</a>).
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 ★★★ (3)
 </td>
+
 <td>
+
 Die Daten werden in einem dokumentierten, nicht-proprietären Format bereitgestellt (bspw. <a
 href="https://datatracker.ietf.org/doc/html/rfc4180">CSV</a>).
 </td>
+
 </tr>
+
 <tr class="odd">
+
 <td>
+
 ★★★★(4)
 </td>
+
 <td>
+
 Die Daten werden strukturiert in einer möglichen Serialisierung des Resource Description Frameworks (RDF) bereitgestellt (bspw. <a
 href="https://www.w3.org/TR/turtle">Turtle</a>, <a
 href="http://www.w3.org/TR/rdfa-core/">RDFa</a>, <a
@@ -693,17 +985,26 @@ href="http://www.w3.org/TR/rdf-json/">RDF/JSON</a>, <a
 href="https://json-ld.org/">JSON-LD</a>, <a
 href="http://www.w3.org/TR/sparql11-overview/">SPARQL</a>).
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 ★★★★★ (5)
 </td>
+
 <td>
+
 Die Bezeichnungen innerhalb der RDF-Serialisierung stellen Links (HTTP URIs) dar, unter welchen nützliche Informationen und Kontexte standardisiert zum Abruf zur Verfügung stehen (<a
 href="#_m1x6n2do6gdh">RDF-Star</a>).
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 **FAIR-Prinzip für die Bereitstellung und den Austausch von Daten**
@@ -713,143 +1014,243 @@ Das FAIR-Prinzip dient der Verbesserung der Auffindbarkeit, Zugänglichkeit, Int
 Tabelle: *Indikatoren des FAIR-Prinzips* ([Wilkinson et al. 2016](#ref-wilkinsonfgpsdms2016))
 
 <table>
+
 <colgroup>
+
 <col style="width: 33%" />
+
 <col style="width: 33%" />
+
 <col style="width: 33%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 <strong>FAIR-Prinzip</strong>
 </td>
+
 <td>
+
 <strong>Beschreibung</strong>
 </td>
+
 <td>
+
 <strong>Indikatoren</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 <strong>A</strong>uffindbarkeit (<strong>F</strong>indability)
 </td>
+
 <td>
+
 Leichtigkeit, mit der Daten gefunden werden können
 </td>
+
 <td>
 
 - eindeutige, persistente Identifikation mittels PID<a href="#fn1"
   class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> (z. B. DOI, ISBN, ISSN, ORCID)<br />
 - Anreicherung mit standardisierten Metadaten und kontrollierten Vokabularen
   </td>
+
   </tr>
+
   <tr class="odd">
+
   <td>
+
   <strong>Z</strong>ugänglichkeit (<strong>A</strong>ccessibility)
   </td>
+
   <td>
+
   Datenzugriff erfolgt mit möglichst geringen Hürden
   </td>
+
   <td>
 
   - Verwendung standardisierter, offener Schnittstellen und Protokolle
     </td>
+
     </tr>
+
     <tr class="even">
+
     <td>
+
     <strong>I</strong>nteroperabilität (<strong>I</strong>nteroperability)
     </td>
+
     <td>
+
     Austausch von Daten mit möglichst geringem Informationsverlust zwischen verschiedenen Systemen und Strukturen
     </td>
+
     <td>
 
     - Verwendung gemeinsamer Semantik (kontrollierte Vokabulare, Ontologien)
       </td>
+
       </tr>
+
       <tr class="odd">
+
       <td>
+
       <strong>W</strong>iederverwendbarkeit (<strong>R</strong>eusability)
       </td>
+
       <td>
+
       Möglichkeit der Weiter- / Wiederverwendung von Daten
       </td>
+
       <td>
 
       - Freie Lizenzierung<br /> <br />
 - Dokumentation und Kontextualisierung der Daten (Provenienz)
   </td>
+
   </tr>
+
   </tbody>
+
   </table>
+
   <aside id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+
   <hr />
+
   <ol>
+
   <li id="fn1">
+
   <p>
+
   Persistent Identifier (PID) dienen der eindeutigen, persistenten Identifikation von Ressourcen.<a href="#fnref1"
   class="footnote-back" role="doc-backlink">↩︎</a>
   </p>
+
   </li>
+
   </ol>
+
   </aside>
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Drei Arten von Datenqualität können unterschieden werden:
 </p>
+
 <ul>
+
 <li>
+
 <p>
+
 Syntaktisch
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Semantisch
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Pragmatisch
 </p>
+
 </li>
+
 </ul>
+
 </li>
+
 <li>
+
 <p>
+
 Die Verwendung von Metadatenschemata trägt zur Verbesserung der Datenqualität bei und erleichtert die Wiederverwendbarkeit der Daten, da dort die Anforderungen an die Daten genau beschrieben werden.
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Es liegen verschiedene nachnutzbare Qualitätsmetriken vor ( bspw. Fünf-Sterne-Modell, FAIR).
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 ## 2.8 Wie werden Standards gewartet und entwickelt?
@@ -887,38 +1288,67 @@ Je nach Art der Standardisierung und des daraus resultierenden Standardtyps ist 
 - **Kompatibilität, Anschlussfähigkeit (national, international)**: Unterstützung von Migrationen oder Kompatibilität zwischen Standards auf verschiedenen Ebenen
 
 <table>
+
 <colgroup>
+
 <col style="width: 6%" />
+
 <col style="width: 93%" />
+
 </colgroup>
+
 <tbody>
+
 <tr class="odd">
+
 <td>
+
 💡
 </td>
+
 <td>
+
 <strong>Zusammenfassung</strong>
 </td>
+
 </tr>
+
 <tr class="even">
+
 <td>
+
 </td>
+
 <td>
+
 <ul>
+
 <li>
+
 <p>
+
 Die Mitwirkungsmöglichkeiten mancher Gremien zur Erarbeitung von Standards im Bildungsbereich sind bisweilen mit hohen Mitgliedsgebühren verbunden.
 </p>
+
 </li>
+
 <li>
+
 <p>
+
 Da diese Gebühren von laufzeitbegrenzten Projekten oft nicht bezahlt werden können, empfiehlt sich eine Mitarbeit in offener gestalteten Gremien wie LRMI, DCMI (international) oder KIM-Arbeitsgruppen (national), die ebenfalls Autorität besitzen und formalisierten, dokumentierten Prozessen folgen.
 </p>
+
 </li>
+
 </ul>
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
 
 <div id="refs" class="references csl-bib-body hanging-indent" entry-spacing="0">
